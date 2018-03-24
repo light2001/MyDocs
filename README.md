@@ -16,3 +16,4 @@
 3. [Cenots环境下如何安装Docker下的禅道](https://blog.csdn.net/qq_28039297/article/details/78650552)
 4. [Centos环境下如何安装Docker下的gitlab](https://www.cnblogs.com/xuezhigu/p/6555895.html)
 5. [Docker如何配置加速器](https://blog.csdn.net/bwlab/article/details/50542261)
+6. [阿里云Docker加速服务，如何使用](https://www.cnblogs.com/zhxshseu/p/5970a5a763c8fe2b01cd2eb63a8622b2.html)

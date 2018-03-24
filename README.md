@@ -14,4 +14,5 @@
 1. [在Centos环境下安装Docker ce](/运维文档/Centos安装Docker.md)
 2. [Centos环境下防火墙入口配置](/运维文档/Centos环境下防火墙入口配置.md)
 3. [Cenots环境下如何安装Docker下的禅道](https://blog.csdn.net/qq_28039297/article/details/78650552)
-4. [Centos环境下如何安装docker下的gitlab](https://www.cnblogs.com/xuezhigu/p/6555895.html)
+4. [Centos环境下如何安装Docker下的gitlab](https://www.cnblogs.com/xuezhigu/p/6555895.html)
+5. [Docker如何配置加速器](https://blog.csdn.net/bwlab/article/details/50542261)

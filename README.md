@@ -20,6 +20,17 @@
 7. [Centos下安装Docker下的Mysql，并启动](https://www.linuxidc.com/Linux/2017-09/146659.htm)
 
 
+#### 已安装的Docker镜像,全部来自官方镜像仓库
+1. nginx
+2. tomcat
+3. solr
+4. elasticsearch
+5. redis
+6. postgres
+7. mysql
+8. mongo
+9. gitlab
+10. zentao
 
 #### 教程
 1. [Docker在线教程](https://yeasy.gitbooks.io/docker_practice/content/)

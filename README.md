@@ -19,6 +19,7 @@
 6. [阿里云Docker加速服务，如何使用](https://www.cnblogs.com/zhxshseu/p/5970a5a763c8fe2b01cd2eb63a8622b2.html)
 7. [Centos下安装Docker下的Mysql，并启动](https://www.linuxidc.com/Linux/2017-09/146659.htm)
 8. [Docker下，连接到已经打开的容器](https://www.cnblogs.com/zhuxiaojie/p/5947270.html)
+9. [删除Docker镜像](https://www.cnblogs.com/q4486233/p/6482711.html)
 
 #### 已安装的Docker镜像,全部来自官方镜像仓库
 1. nginx

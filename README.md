@@ -20,6 +20,7 @@
 7. [Centos下安装Docker下的Mysql，并启动](https://www.linuxidc.com/Linux/2017-09/146659.htm)
 8. [Docker下，连接到已经打开的容器](https://www.cnblogs.com/zhuxiaojie/p/5947270.html)
 9. [删除Docker镜像](https://www.cnblogs.com/q4486233/p/6482711.html)
+10. [WindowsServer2016安装DockerForWindows](https://baijiahao.baidu.com/s?id=1570288005533351&wfr=spider&for=pc)
 
 #### 已安装的Docker镜像,全部来自官方镜像仓库
 1. nginx

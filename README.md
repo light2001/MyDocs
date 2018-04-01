@@ -21,6 +21,7 @@
 8. [Docker下，连接到已经打开的容器](https://www.cnblogs.com/zhuxiaojie/p/5947270.html)
 9. [删除Docker镜像](https://www.cnblogs.com/q4486233/p/6482711.html)
 10. [WindowsServer2016安装DockerForWindows](https://baijiahao.baidu.com/s?id=1570288005533351&wfr=spider&for=pc)
+11. [在Windows下部署将Solr7.2.1部署在Tomcat9下](/运维文档/Solr7部署.md)
 
 #### 已安装的Docker镜像,全部来自官方镜像仓库
 1. nginx

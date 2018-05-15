@@ -23,6 +23,9 @@
 10. [WindowsServer2016安装DockerForWindows](https://baijiahao.baidu.com/s?id=1570288005533351&wfr=spider&for=pc)
 11. [在Windows下部署将Solr7.2.1部署在Tomcat9下](/运维文档/Solr7部署.md)
 
+### 开发语言
+1. [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)
+
 #### 已安装的Docker镜像,全部来自官方镜像仓库
 1. nginx
 2. tomcat

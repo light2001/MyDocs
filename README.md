@@ -22,6 +22,7 @@
 9. [删除Docker镜像](https://www.cnblogs.com/q4486233/p/6482711.html)
 10. [WindowsServer2016安装DockerForWindows](https://baijiahao.baidu.com/s?id=1570288005533351&wfr=spider&for=pc)
 11. [在Windows下部署将Solr7.2.1部署在Tomcat9下](/运维文档/Solr7部署.md)
+12. [在Linux下生成SSH Key，然后免key登陆GitLab](https://blog.csdn.net/y1574406771/article/details/72676980)
 
 ### 开发语言
 1. [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)

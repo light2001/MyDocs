@@ -24,6 +24,7 @@
 11. [在Windows下部署将Solr7.2.1部署在Tomcat9下](/运维文档/Solr7部署.md)
 12. [在Linux下生成SSH Key，然后免key登陆GitLab](https://blog.csdn.net/y1574406771/article/details/72676980)
 13. [在centos7安装nginx](https://blog.csdn.net/oldguncm/article/details/78855000)
+14. [如果国内无法安装docker-ce，可以使用阿里的镜像仓库](https://blog.csdn.net/yohoph/article/details/80079078)
 
 ### 开发语言
 1. [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)

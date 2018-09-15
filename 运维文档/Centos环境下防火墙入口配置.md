@@ -4,9 +4,12 @@
 根据以下这篇教程配置
 
 <a href="https://www.linuxidc.com/Linux/2017-01/139622.htm" target="_blank">安装教程<a/>
+<a href="https://blog.csdn.net/irokay/article/details/72717132" target="_blank">防火墙安装<a/>
 
 
 https://blog.csdn.net/lee528066/article/details/52947980
+
+
 
 
 #### 关于centos 7 中service iptables save 指令使用失败的结局方案  

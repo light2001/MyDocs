@@ -27,7 +27,7 @@
 14. [如果国内无法安装docker-ce，可以使用阿里的镜像仓库](https://blog.csdn.net/yohoph/article/details/80079078)
 15. [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)
 16. [ubuntu 18 更换软件源](https://blog.csdn.net/zhangjiahao14/article/details/80554616)
-17. [ubuntu 18 安装搜狗输入法] (https://blog.csdn.net/lupengCSDN/article/details/80279177)
+17. [ubuntu 18 安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)
 
 
 

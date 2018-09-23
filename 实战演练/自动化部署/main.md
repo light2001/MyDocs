@@ -2,7 +2,8 @@
 ---
 背景知识：
     
-    本文的目的在于，在Centos环境下，安装gitlab代码管理器，并配合gitlab-runner实现自动化部署，前后端项目均可，这次选择的是.Net Core后端项目
+    本文的目的在于，在Centos环境下，安装gitlab代码管理器，并配合gitlab-runner实现自动化部署，前后端项目均可
+    这次选择的是.Net Core后端项目
 
     想要实现这个目标，需要掌握以下基本知识
     1. Centos基本操作，linux常用命令

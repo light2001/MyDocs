@@ -30,6 +30,8 @@
 17. [ubuntu 18 安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)
 
 
+### 实战演练
+1. [在centos7.5环境下配置实现.net core项目的自动化部署](/实战演练/自动化部署/main.md)
 
 ### 开发语言
 1. [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)

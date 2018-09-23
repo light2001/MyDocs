@@ -1,4 +1,4 @@
-### 本文是在Centos 7.5版本下实现.Net Core部署
+### 本文的目标是在Centos 7.5版本下实现.Net Core部署
 ---
 背景知识：
     
@@ -100,6 +100,20 @@
     #授权命令
     sudo chmod +x /usr/local/bin/docker-compose
     ```
-    注意：以上所有操作，均在root用户下进行，下面也不再重复
+    安装完毕后检验结果：
+    ```
+    [root@localhost sysconfig]# docker-compose --version
+    docker-compose version 1.17.1, build 6d101fb
+    [root@localhost sysconfig]# 
 
+    ```
     
+    
+    
+    
+    
+    
+    注意：以上所有操作，均在root用户下进行，下面也不再重复
+    
+
+

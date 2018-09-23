@@ -275,6 +275,27 @@
 
         ![图片](/实战演练/自动化部署/images/gitlabbaidu.png)
 
+
+8. DotNet2.1 SDK环境安装
+
+    1. 导入rpm源
+    ```
+    sudo rpm -Uvh https://packages.microsoft.com/config/rhel/7/packages-microsoft-prod.rpm
+    ```
+    2. 更新软件包
+    ```
+    sudo yum -y update
+    ```
+    3. 安装SDK
+    ```
+    sudo yum -y install dotnet-sdk-2.1
+    ```
+    4. 校验是否安装成功
+    ```
+    dotnet --version
+    ```
+
+
     至此，环境安装就已经全部结束了
     
 

@@ -173,6 +173,27 @@
     
     *注意：以上所有操作，均在root用户下进行，下面也不再重复*
     
-    
+4. 配置防火墙
 
+    默认情况下，和以往不同，centos7安装了firewalld，而不是iptables，这个新防火墙我还不清楚好坏，但是操作起来简单多了，所以本次就不换成iptables了
+    1. 配置开放80，8080端口
+    ```
+    firewall-cmd --zone=public --add-port=80/tcp --permanent    （--permanent永久生效，没有此参数重启后失效）
+    firewall-cmd --zone=public --add-port=8080/tcp --permanent
+    ```
+    2. 重新载入
+    ```
+    firewall-cmd --reload
+    ```
+    3. 查看是否生效
+    ```
+    [root@localhost sysconfig]# firewall-cmd --zone=public --query-port=80/tcp
+    yes
+    [root@localhost sysconfig]# 
+    ```
+    4. 测试gitlab，看是否已经可用
+    
+    如下截图所示就表示已经正常了
+    
+    ![图片](/images/gitlablogin.png)
 

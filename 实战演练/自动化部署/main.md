@@ -41,10 +41,11 @@
     2. Nginx——反向代理
     3. Dcoker——docker容器
     4. Docker-compose——容器编排
-    5. Vim——文本编辑器
+    5. Vim——文本编辑器，这个安装很简单，就不单独说明了
     6. Firewall——防火墙
     7. Docker下的Gitlab
     8. Gitlab-Runner——自动化部署的客户端软件
+    9. .Net CoreSDK的安装
 
     虚拟机我采用的是Vmware，Centos的ISO我是从官网下载的最新版1804，安装后显示centos为7.5版本
 

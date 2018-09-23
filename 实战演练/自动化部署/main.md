@@ -78,3 +78,28 @@
 
         sudo yum -y install docker-ce
     ```
+    4. 启动docker并设置开机启动
+    ```
+        sudo systemctl enable docker
+        sudo systemctl start docker
+    ```
+    5. 测试是否安装完毕,执行如下命令，正常会看到结果
+    ```
+        [root@localhost sysconfig]# docker images
+        REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+        gitlab/gitlab-ce    latest              b199bc7f269f        39 hours ago        1.47GB
+        [root@localhost sysconfig]#    
+
+    ```
+4. 安装docker-compose 
+    docker-compose安装比较简单，官方提供了curl地址
+    ```
+    #安装
+    sudo curl -L https://github.com/docker/compose/releases/download/1.17.1/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+
+    #授权命令
+    sudo chmod +x /usr/local/bin/docker-compose
+    ```
+    注意：以上所有操作，均在root用户下进行，下面也不再重复
+
+    

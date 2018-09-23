@@ -173,7 +173,7 @@
     
     *注意：以上所有操作，均在root用户下进行，下面也不再重复*
     
-4. 配置防火墙
+6. 配置防火墙
 
     默认情况下，和以往不同，centos7安装了firewalld，而不是iptables，这个新防火墙我还不清楚好坏，但是操作起来简单多了，所以本次就不换成iptables了
     1. 配置开放80，8080端口
@@ -193,7 +193,88 @@
     ```
     4. 测试gitlab，看是否已经可用
     
-    如下截图所示就表示已经正常了
+    在宿主电脑，打开浏览器，输入：http://192.168.1.xxx:8080 (需要输入你虚拟机的IP地址)  如下截图所示就表示已经正常了
     
-    ![图片](/images/gitlablogin.png)
+    ![图片](/实战演练/自动化部署/images/gitlablogin.png)
+
+    如果这样，是不是就证明你的gitlab可以用了，不，还不行，因为你的域名是IP地址，并且带有端口，无法正常使用，我们还需要引入Nginx
+
+7. 安装nginx并配置生效
+
+    nginx的作用是端口，域名，路由，等等转发，也非常使用用于静态文件的web服务器，这里只用作域名转发
+
+    1. 安装Nginx
+    ```
+    # 安装基础软件
+    sudo yum install epel-release
+    # 安装nginx
+    sudo yum install nginx
+    ```
+    2. 启动nginx
+    ```
+    sudo systemctl start nginx
+    sudo systemctl enable nginx
+    ```
+
+    3. 修改nginx的配置文件
+
+        nginx的配置文件分几种，一种是/etc/nginx/nginx.conf，核心配置文件，还有一种属于客户配置的文件，放在/etc/nginx/conf.d/ 这个目录下
+
+        修改nginx.conf，将其中的用户修改为root，这里是为了方便，正常应该建立nginx并授权，如截图所示
+
+        ![图片](/实战演练/自动化部署/images/nginxconf.png)
+
+        在/etc/nginx/conf.d下添加一个配置文件
+        ```
+        [root@localhost nginx]# cd /etc/nginx/conf.d
+        [root@localhost conf.d]# ls
+        gitlab.conf
+        [root@localhost conf.d]# vim gitlab.conf
+        # 文件内容：
+
+        server {  
+        listen       80;  
+        server_name  gitlab.baidu.com;
+        access_log  /var/log/nginxhost.access.log  main;  
+        location / {  
+            proxy_pass   http://127.0.0.1:8080; 
+            }       
+        }  
+
+        ```
+    4. 重新读取nginx配置
+
+        输入命令，让新配置的配置文件生效
+        ```
+        [root@localhost conf.d]# nginx -s reload
+        [root@localhost conf.d]#
+
+        ```
+
+    5. 修改selinux，允许nginx通过
+
+        为什么要做这一步？
+        
+        因为selinux默认会审核所有的安全策略，nginx默认是不给通过的，需要配置，否则就算nginx是正常运作的，但是还是会看到nginx502错误
+
+        配置命令：
+        ```
+        yum install policycoreutils-python  
+        sudo cat /var/log/audit/audit.log | grep nginx | grep denied | audit2allow -M mynginx 
+        semodule -i mynginx.pp 
+        ```
+        网上有很多种解决办法，但是最多的一种办法就是关闭selinux，为了安全，我不认为关闭是个好办法
+    6. 测试nginx是否生效
+
+        配置本地hosts文件，增加规则
+        ```
+        192.168.20.139  gitlab.baidu.com
+        ```
+
+        打开浏览器，输入地址：http://gitlab.baidu.com 看到下图所示，就表示已经全部成功了
+
+        ![图片](/实战演练/自动化部署/images/gitlabbaidu.png)
+
+    至此，环境安装就已经全部结束了
+    
 

@@ -32,6 +32,9 @@
     1. 内存至少8g以上，16g更好，因为虚拟机至少需要4g或者更多的内存
     2. CPU在i5即可，没有更多要求
     3. 硬盘至少30g空间，用于安装软件，如果觉得紧张，那15g是必不可少的了
+    4. 安装时会安装两台服务器，一台用于gitlab服务器，另一台作为web服务器，这台硬件要求可以放低一点，因为只是测试环境，不存在高并发情况
+    5. 我的两台服务器，一台给了单CPU4核心，8G内存40G硬盘，另一台单核单CPU，2G内存20G硬盘
+    
 
     二. 软件环境
     1. Centos7.5——linux操作系统
@@ -220,7 +223,7 @@
 
         nginx的配置文件分几种，一种是/etc/nginx/nginx.conf，核心配置文件，还有一种属于客户配置的文件，放在/etc/nginx/conf.d/ 这个目录下
 
-        修改nginx.conf，将其中的用户修改为root，这里是为了方便，正常应该建立nginx并授权，如截图所示
+        修改nginx.conf，将其中的用户修改为root，这里是为了方便，正常应该建立nginx用户并授权，如截图所示
 
         ![图片](/实战演练/自动化部署/images/nginxconf.png)
 
@@ -294,7 +297,27 @@
     ```
     dotnet --version
     ```
+9. gitlab-runner的安装
 
+    gitlab-runner是一个工作者程序，用于接受gitlab上版本更新小心，并触发本地自动化部署脚本的执行
+
+    安装步骤来自于[gitlab的官方网站](https://docs.gitlab.com/ee/README.html)
+
+    1. 添加官方源
+    ```
+    # For RHEL/CentOS/Fedora
+    curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.rpm.sh | sudo bash
+    ```
+    2. 安装软件
+    ```
+    sudo yum install gitlab-runner
+    ```
+    3. 验证是否安装成功
+    ```
+    输入：gitlab-runner list
+    ```
+
+    由于实际操作需要安装两台centos，1台作为gitlab服务器，另一台作为web服务器用于发布，安装过成大致一样，就不多做赘述了
 
     至此，环境安装就已经全部结束了
     

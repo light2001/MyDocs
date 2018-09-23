@@ -108,12 +108,71 @@
 
     ```
     
+5. 安装基于docker的gitlab
+
+    1. 编写docker-compose.yml文件
+
+        为什么要编写docker-compose文件？
+        
+        这里简单说一下，docker-compose是docker官方提供的容器编排工具，上手比较简单，主要功能就是操作容器，包括容器的下载，运行，关闭，查看状态，等等，容器运行的一些参数，可以直接用docker-compose操作，不用每次都敲docker run xxx命令，docker-compose.yml是docker-compose的模板文件，会根据这个文件，执行一系列的命令，命令结果，默认在docker本地仓库内，和当前所处的目录无关
+
+    先创建目录和文件
+    ```
+        cd /home
+        mkdir gitlab
+        cd gitlab
+        mkdir docker-compose.yml
+        vim docker-compose.yml
+
+    ```
+    文件内容：
+    ```
+    version: '3'
+
+    services:
+        gitlab:
+            image: gitlab/gitlab-ce
+            container_name: "gitlab"
+            restart: always
+            ports:
+            - "8080:80"
+            - "443:443"
+            - "10022:22"
+            environment:
+                GITLAB_OMNIBUS_CONFIG: |
+                    external_url 'http://gitlab.baidu.com'
+                    gitlab_rails['gitlab_shell_ssh_port'] = 10022
+            volumes:
+            - '/srv/gitlab/config:/etc/gitlab'
+            - '/srv/gitlab/logs:/var/log/gitlab'
+            - '/srv/gitlab/data:/var/opt/gitlab'
+    networks:
+    default:
+        driver: bridge
+    ```
+    文件内容不多做解释，简单来说就是下载gitlab/gitlab-ce并运行，映射到主机的端口，注意这一句中的域名，下面的步骤会用到
+    ```
+        external_url 'http://gitlab.baidu.com
+    ```
+    2. 运行docker-compose.yml文件
+
+        可以直接敲命令，不过为了不重复劳动，建议创建一个.sh文件，用于执行
+        ```
+        cd /home/gitlab/docker-compose
+        mkdir run.sh
+        vim run.sh
+        # 文件内容：
+        docker-compose up -d --build --force-recreate
+        # 使用
+        sh run.sh
+        ```
+        #正常会执行下载gitlab-ce的操作，大概1.6g左右
+
+    至此，一个在docker下运行的gitlab环境就安装完毕了，在环境跟本文一致的情况下，亲测有效，如有意外，自行解决
+
     
+    *注意：以上所有操作，均在root用户下进行，下面也不再重复*
     
-    
-    
-    
-    注意：以上所有操作，均在root用户下进行，下面也不再重复
     
 
 

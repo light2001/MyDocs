@@ -304,16 +304,18 @@
 
     安装步骤来自于[gitlab的官方网站](https://docs.gitlab.com/ee/README.html)
 
-    1. 添加官方源
+    1. 安装软件
     ```
-    # For RHEL/CentOS/Fedora
-    curl -L https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.rpm.sh | sudo bash
+    # Linux x86-64
+    sudo wget -O /usr/local/bin/gitlab-runner https://gitlab-runner-downloads.s3.amazonaws.com/latest/binaries/gitlab-runner-linux-amd64
+
+    # Linux x86
+    sudo wget -O /usr/local/bin/gitlab-runner https://gitlab-runner-downloads.s3.amazonaws.com/latest/binaries/gitlab-runner-linux-386
+
+    # Linux arm
+    sudo wget -O /usr/local/bin/gitlab-runner https://gitlab-runner-downloads.s3.amazonaws.com/latest/binaries/gitlab-runner-linux-arm
     ```
-    2. 安装软件
-    ```
-    sudo yum install gitlab-runner
-    ```
-    3. 验证是否安装成功
+    2. 验证是否安装成功
     ```
     输入：gitlab-runner list
     ```

@@ -20,10 +20,10 @@
 
 
     主要分为几个步骤
-    1. 环境安装
-    2. gitlab配置
-    3. .Net Core项目配置
-    4. 实现自动化部署
+    1. 步骤一环境安装
+    2. [步骤二gitlab配置](/实战演练/自动化部署/gitlabSetup.md)
+    3. [步骤三.Net Core项目配置](/实战演练/自动化部署/aspnetcore.md)
+    4. [步骤四实现自动化部署](/实战演练/自动化部署/CICD.md)
 
 
 ### 一、环境安装
@@ -314,14 +314,29 @@
 
     # Linux arm
     sudo wget -O /usr/local/bin/gitlab-runner https://gitlab-runner-downloads.s3.amazonaws.com/latest/binaries/gitlab-runner-linux-arm
+
+
     ```
-    2. 验证是否安装成功
+    2. 授权
+    ```
+    sudo chmod +x /usr/local/bin/gitlab-runner
+    ```
+
+
+    3. 验证是否安装成功
     ```
     输入：gitlab-runner list
+
     ```
 
     由于实际操作需要安装两台centos，1台作为gitlab服务器，另一台作为web服务器用于发布，安装过成大致一样，就不多做赘述了
 
-    至此，环境安装就已经全部结束了
-    
+    至此，环境安装就已经全部结束了，由于篇幅较长，因此拆分成几个步骤了，下面提供了链接
+---
+
+### [步骤二gitlab配置](/实战演练/自动化部署/gitlabSetup.md)
+
+### [步骤三.Net Core项目配置](/实战演练/自动化部署/aspnetcore.md)
+
+### [步骤四实现自动化部署](/实战演练/自动化部署/CICD.md)
 

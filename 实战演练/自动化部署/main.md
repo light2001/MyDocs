@@ -69,6 +69,9 @@
     2. 如果你的操作系统是win10 ,可以在应用市场安装Ubuntu这个APP，这是一个完整的Linux子系统，可以直接在Power shell里使用它的终端界面
     3. SecureCRT ，老牌终端程序了，不过这个是收费的
     4. Zoc7，本来是Mac下的终端，超好用，目前发现Windows下同样提供了，比以上所的所有终端都好用，也是收费软件
+    5. SmarTTY，最近才发现的完全免费的ssh，出奇的好用，还免费试用，强烈建议试用
+    6. Putty 完全开源免费的，使用起来类似gitbash
+    7. Cygwin，这个东东能提供win下的整个linux环境，非常强大，他不仅仅是一个ssh
 
 3. Docker的安装
     

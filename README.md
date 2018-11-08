@@ -29,6 +29,7 @@
 16. [ubuntu 18 更换软件源](https://blog.csdn.net/zhangjiahao14/article/details/80554616)
 17. [ubuntu 18 安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)
 18. [工作中常见git问题汇总](/git/main.md)
+19. [在Centos下安装Nodejs最新版的三种方式](https://blog.csdn.net/bbwangj/article/details/82253785)
 
 
 ### 实战演练

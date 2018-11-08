@@ -18,6 +18,8 @@ git pull
 ```
 git clone http://UserName:Password@github.com/light2001/MyDocs.git
 
+注意： 
+如果用户或者密码中有"@"符号，则需要用 "%40" 代替，否则会报密码错误
 ```
 
 3. git切换远程仓库到本地

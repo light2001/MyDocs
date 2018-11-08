@@ -28,6 +28,7 @@
 15. [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)
 16. [ubuntu 18 更换软件源](https://blog.csdn.net/zhangjiahao14/article/details/80554616)
 17. [ubuntu 18 安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)
+18. [工作中常见git问题汇总](/git/main.md)
 
 
 ### 实战演练

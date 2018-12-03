@@ -30,6 +30,7 @@
 17. [ubuntu 18 安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)
 18. [工作中常见git问题汇总](/编程文档/git/main.md)
 19. [在Centos下安装Nodejs最新版的三种方式](https://blog.csdn.net/bbwangj/article/details/82253785)
+20. [Ubuntu怎么安装最新的nodejs](https://blog.csdn.net/chenyao1994/article/details/82495163)
 
 
 ### 实战演练

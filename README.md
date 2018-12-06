@@ -33,6 +33,7 @@
 20. [Ubuntu怎么安装最新的nodejs](https://blog.csdn.net/chenyao1994/article/details/82495163)
 21. [Ubuntu怎么安装Chrome](https://www.cnblogs.com/cainiaoaixuexi/p/9033350.html)
 22. [Ubuntu 分辨率高以后，解决缩放问题](http://tieba.baidu.com/p/5670339451)
+23. [Ubuntu 怎么安装Nodejs最新版](/运维文档/Ubuntu安装Nodejs.md)
 
 ### 实战演练
 1. [在centos7.5环境下配置实现.net core项目的自动化部署](/实战演练/自动化部署/main.md)

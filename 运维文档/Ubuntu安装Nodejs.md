@@ -1,4 +1,4 @@
-#### Ubuntu怎么安装最新版的Nodejs。npm等
+#### Ubuntu怎么安装最新版的Nodejs、npm等
 
 
 #### 下载解压缩

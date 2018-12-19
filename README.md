@@ -35,6 +35,7 @@
 22. [Ubuntu 分辨率高以后，解决缩放问题](http://tieba.baidu.com/p/5670339451)
 23. [Ubuntu 怎么安装Nodejs最新版](/运维文档/Ubuntu安装Nodejs.md)
 24. [Ubuntu 怎么安装最新版的git](/运维文档/Ubuntu安装Git最新版.md)
+25. [Centos7 安装Chrome浏览器](https://www.cnblogs.com/ianduin/p/8727333.html)
 
 
 ### 实战演练

@@ -56,6 +56,19 @@
 9. gitlab
 10. zentao
 
+###### 在docker pull后运行禅道
+```
+mkdir -p /data/zbox && docker run -d -p 81:80 -p 3306:3306 \
+        -e USER="root" -e PASSWD="password" \
+        -e BIND_ADDRESS="false" \
+        -e SMTP_HOST="163.177.90.125 smtp.exmail.qq.com" \
+        -v /data/zbox/:/opt/zbox/ \
+        --privileged=true \
+        --name zentao-server \
+        idoop/zentao:latest
+
+```
+
 #### 教程
 1. [Docker在线教程](https://yeasy.gitbooks.io/docker_practice/content/)
 2. [阮一峰的Docker入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)

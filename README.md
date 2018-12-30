@@ -76,3 +76,10 @@ mkdir -p /data/zbox && docker run -d -p 81:80 -p 3306:3306 \
 
 #### 完整版教材
 1. [Docker入门到实践，这个强推](https://www.gitbook.com/book/yeasy/docker_practice/details)
+
+
+#### 专项课题
+1. [win10环境安装Hyper-v虚拟机](/运维文档/在win10操作系统下安装Hyper-v.md)
+2. [基于Hyper-v安装Centos7.5](/运维文档/通过Hyper-v安装Centos7.5.md)
+3. [Centos7.5常用软件以及Docker的安装](/运维文档/在纯净的Centos7.5下安装常用软件和Docker.md)
+4. [Docker常用操作以及容器安装运行](/运维文档/基于Docker安装和运行常用容器.md)

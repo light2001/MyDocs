@@ -1,6 +1,7 @@
 #### Hyper-v介绍
 
-    Hpyer-v是win10自带的虚拟机程序，和vmware一样，都能提供虚拟化环境，不同的是hyper-v是win10附送的，而日常所见的vmware其实是需要收费的，虽然vmware破解版很容易找到
+    Hpyer-v是win10自带的虚拟机程序，和vmware一样，都能提供虚拟化环境，
+    不同的是hyper-v是win10附送的，而日常所见的vmware其实是需要收费的，虽然vmware破解版很容易找到
 
     Hyper-v只有在win10专业版和企业版才能安装，家庭版是不可以的
 

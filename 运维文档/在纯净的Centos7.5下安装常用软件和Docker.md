@@ -35,19 +35,19 @@
 
 1. 打开主界面，新增SSH连接，在alias输入别名
 
-![截图](/运维文档/images/Smartty连接centos.png)
+![截图](images/Smartty连接centos.png)
 
 2. 菜单栏-tools-settings,设置成如截图所示
 
-![截图](/运维文档/images/Smartty配置.png)
+![截图](images/Smartty配置.png)
 
 3. 在终端界面输入命令，操纵centos
 
-![截图](/运维文档/images/Smartty操纵centos.png)
+![截图](images/Smartty操纵centos.png)
 
 4. 文件传输界面，在菜单-SCP菜单，可以看到Download和Upload就是用来传输文件的，可以选择centos的路径和本地路径
 
-![截图](/运维文档/images/Smartty传输文件.png)
+![截图](images/Smartty传输文件.png)
 
 
 #### 常用的centos命令介绍
@@ -106,7 +106,7 @@ sudo systemctl start sshd
 2. 在终端输入命令：ip address show eth0 (如果找不到eth0也可以 只输入ip address)
 3. 如截图所示，IP地址为192.168.31.120
 
-![截图](/运维文档/images/IP地址.png)
+![截图](images/IP地址.png)
 
 
 4. 打开Smartty，新增SSH连接，在其中IP地址输入192.168.31.120，用户密码输入对应的即可

@@ -41,12 +41,12 @@
     2. 根据列表中的结果，一般是选择下载量最大的那个
     3. 如图所示，这里第一个就是下载量最大的
 
-    ![截图](/运维文档/images/安装Redis.png)
+    ![截图](images/安装Redis.png)
 
     4. 输入:docker pull redis
     5. 如图所示，将开始下载redis的镜像
 
-    ![截图](/运维文档/images/开始安装redis.png)
+    ![截图](images/开始安装redis.png)
 
 2. 安装mongodb
 
@@ -61,7 +61,7 @@
     是不是感觉相当简单，是的，这就是docker的魅力
 4. 安装完毕后，检查镜像列表，是否正确
 
-    ![截图](/运维文档/images/检查Docker镜像列表.png)
+    ![截图](images/检查Docker镜像列表.png)
     
     如图所示，已经安装完毕，redis,mysq,mongod都在本地镜像列表里了
 
@@ -84,7 +84,7 @@ sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d m
 ```
 输入：docker ps,查看当前运行的容器
 ```
-![截图](/运维文档/images/查看容器列表.png)
+![截图](images/查看容器列表.png)
 
 
 #### 防火墙设置

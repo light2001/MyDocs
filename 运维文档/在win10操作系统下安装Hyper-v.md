@@ -18,8 +18,8 @@
 
 4. 打开控制面板-找到管理工具，会看到多出一个Hyper-v管理器，右键单击-发送-桌面快捷方式
 
-![截图](/运维文档/images/Hyper管理工具.png)
+![截图](images/Hyper管理工具.png)
 
 5. 打开Hpyer-v管理工具，证明已经安装完毕
 
-![截图](/运维文档/images/Hyper管理器界面.png)
+![截图](images/Hyper管理器界面.png)

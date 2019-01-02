@@ -104,7 +104,7 @@
     ```
     6. 把当前用户加入Docker用户组,这样每次使用docker就不用输入sudo docker了，只需要输入docker
     ```
-        sudo usermod -aG docker ${USER}
+        sudo gpasswd -a ${USER} docker
         # 重启docker服务
         sudo systemctl restart docker
         # 切换用户，或者注销登录

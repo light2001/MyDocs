@@ -101,13 +101,23 @@
         REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
         gitlab/gitlab-ce    latest              b199bc7f269f        39 hours ago        1.47GB
         [root@localhost sysconfig]#    
+    ```
+    6. 把当前用户加入Docker用户组,这样每次使用docker就不用输入sudo docker了，只需要输入docker
+    ```
+        sudo usermod -aG docker ${USER}
+        # 重启docker服务
+        sudo systemctl restart docker
+        # 切换用户，或者注销登录
+        su root             切换到root用户
+        su ${USER}          再切换到原来的应用用户以上配置才生效
 
     ```
+    
 4. 安装docker-compose 
     docker-compose安装比较简单，官方提供了curl地址
     ```
     #安装
-    sudo curl -L https://github.com/docker/compose/releases/download/1.17.1/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+    sudo curl -L "https://github.com/docker/compose/releases/download/1.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 
     #授权命令
     sudo chmod +x /usr/local/bin/docker-compose

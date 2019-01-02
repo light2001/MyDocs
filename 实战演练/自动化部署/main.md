@@ -169,8 +169,8 @@
             - '/srv/gitlab/logs:/var/log/gitlab'
             - '/srv/gitlab/data:/var/opt/gitlab'
     networks:
-    default:
-        driver: bridge
+        default:
+          driver: bridge
     ```
     文件内容不多做解释，简单来说就是下载gitlab/gitlab-ce并运行，映射到主机的端口，注意这一句中的域名，下面的步骤会用到
     ```

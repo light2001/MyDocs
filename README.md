@@ -3,11 +3,11 @@
 
 
 ### 根据日常需要，主要包括以下几类日志：
-1. 运维类
-2. 研发类
-3. 技术类
-4. 设计类
-5. 项目类
+- 运维类
+- 研发类
+- 技术类
+- 设计类
+- 项目类
 
 
 #### 运维文档
@@ -51,18 +51,6 @@
 
 ### 开发语言
 1. [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)
-
-#### 已安装的Docker镜像,全部来自官方镜像仓库
-1. nginx
-2. tomcat
-3. solr
-4. elasticsearch
-5. redis
-6. postgres
-7. mysql
-8. mongo
-9. gitlab
-10. zentao
 
 
 

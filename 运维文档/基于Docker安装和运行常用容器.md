@@ -80,7 +80,20 @@ docker run --name cool-mongo -p 27017:27017 -d mongo
 sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d mysql
 ```
 
-4. 查看运行列表
+4. 运行禅道
+```
+mkdir -p /data/zbox && docker run -d -p 81:80 -p 3306:3306 \
+        -e USER="root" -e PASSWD="password" \
+        -e BIND_ADDRESS="false" \
+        -e SMTP_HOST="163.177.90.125 smtp.exmail.qq.com" \
+        -v /data/zbox/:/opt/zbox/ \
+        --privileged=true \
+        --name zentao-server \
+        idoop/zentao:latest
+
+```
+
+5. 查看运行列表
 ```
 输入：docker ps,查看当前运行的容器
 ```

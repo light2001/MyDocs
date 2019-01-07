@@ -11,7 +11,7 @@
 
 
 #### 运维文档
-- Centos教程
+- Centos
    - [在Centos环境下安装Docker ce](/运维文档/Centos安装Docker.md)
    - [Centos环境下防火墙入口配置](/运维文档/Centos环境下防火墙入口配置.md)
    - [Cenots环境下如何安装Docker下的禅道](https://blog.csdn.net/qq_28039297/article/details/78650552)
@@ -20,7 +20,7 @@
    - [Centos下安装Nodejs最新版的三种方式](https://blog.csdn.net/bbwangj/article/details/82253785)
    - [在centos7安装nginx](https://blog.csdn.net/oldguncm/article/details/78855000)
    - [Centos7 安装Chrome浏览器](https://www.cnblogs.com/ianduin/p/8727333.html)
-- Ubuntu教程
+- Ubuntu
    - [Ubuntu怎么安装最新的nodejs](https://blog.csdn.net/chenyao1994/article/details/82495163)
    - [Ubuntu怎么安装Chrome](https://www.cnblogs.com/cainiaoaixuexi/p/9033350.html)
    - [Ubuntu 分辨率高以后，解决缩放问题](http://tieba.baidu.com/p/5670339451)

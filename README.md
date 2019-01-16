@@ -20,6 +20,8 @@
    - [安装Nodejs最新版的三种方式](https://blog.csdn.net/bbwangj/article/details/82253785)
    - [安装nginx](https://blog.csdn.net/oldguncm/article/details/78855000)
    - [安装Chrome浏览器](https://www.cnblogs.com/ianduin/p/8727333.html)
+   - [Centos安装Maven](http://www.cnblogs.com/QW-lzm/p/9750117.html)
+   - [Centos安装JDK8](https://blog.csdn.net/sizhezhongnian/article/details/81142976)
 - Ubuntu
    - [怎么安装最新的nodejs](https://blog.csdn.net/chenyao1994/article/details/82495163)
    - [怎么安装Chrome](https://www.cnblogs.com/cainiaoaixuexi/p/9033350.html)
@@ -34,8 +36,7 @@
    - [连接到已经打开的容器](https://www.cnblogs.com/zhuxiaojie/p/5947270.html)
    - [删除Docker镜像](https://www.cnblogs.com/q4486233/p/6482711.html)
    - [如果国内无法安装docker-ce，可以使用阿里的镜像仓库](https://blog.csdn.net/yohoph/article/details/80079078)
-   - [Centos安装Maven](http://www.cnblogs.com/QW-lzm/p/9750117.html)
-   - [Centos安装JDK8](https://blog.csdn.net/sizhezhongnian/article/details/81142976)
+
 - Nginx
    - [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)
 - Windows

@@ -34,6 +34,8 @@
    - [连接到已经打开的容器](https://www.cnblogs.com/zhuxiaojie/p/5947270.html)
    - [删除Docker镜像](https://www.cnblogs.com/q4486233/p/6482711.html)
    - [如果国内无法安装docker-ce，可以使用阿里的镜像仓库](https://blog.csdn.net/yohoph/article/details/80079078)
+   - [Centos安装Maven](http://www.cnblogs.com/QW-lzm/p/9750117.html)
+   - [Centos安装JDK8](https://blog.csdn.net/sizhezhongnian/article/details/81142976)
 - Nginx
    - [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)
 - Windows

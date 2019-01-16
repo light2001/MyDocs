@@ -11,7 +11,7 @@
 
 
 #### 运维文档
-- Centos
+- Centos7
    - [安装Docker ce](/运维文档/Centos安装Docker.md)
    - [防火墙入口配置](/运维文档/Centos环境下防火墙入口配置.md)
    - [如何安装Docker下的禅道](https://blog.csdn.net/qq_28039297/article/details/78650552)
@@ -20,9 +20,9 @@
    - [安装Nodejs最新版的三种方式](https://blog.csdn.net/bbwangj/article/details/82253785)
    - [安装nginx](https://blog.csdn.net/oldguncm/article/details/78855000)
    - [安装Chrome浏览器](https://www.cnblogs.com/ianduin/p/8727333.html)
-   - [Centos安装Maven](http://www.cnblogs.com/QW-lzm/p/9750117.html)
-   - [Centos安装JDK8](https://blog.csdn.net/sizhezhongnian/article/details/81142976)
-- Ubuntu
+   - [安装Maven](http://www.cnblogs.com/QW-lzm/p/9750117.html)
+   - [安装JDK8](https://blog.csdn.net/sizhezhongnian/article/details/81142976)
+- Ubuntu18
    - [怎么安装最新的nodejs](https://blog.csdn.net/chenyao1994/article/details/82495163)
    - [怎么安装Chrome](https://www.cnblogs.com/cainiaoaixuexi/p/9033350.html)
    - [分辨率高以后，解决缩放问题](http://tieba.baidu.com/p/5670339451)

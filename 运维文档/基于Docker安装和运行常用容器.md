@@ -68,16 +68,16 @@
 #### 运行容器
 1. 运行redis
 ```
-docker run -p 6379:6379 --name redis -v /d/docker/data/redis:/data  -d redis redis-server --appendonly yes
+docker run -p 6379:6379 --name redis -v /d/docker/data/redis:/data  -d --restart=always redis redis-server --appendonly yes
 ```
 2. 运行mongodb
 ```
-docker run --name cool-mongo -p 27017:27017 -d mongo
+docker run --name cool-mongo -p 27017:27017 -d --restart=always mongo
 ```
 3. 运行mysql
 
 ```
-sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d mysql
+sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d --restart=always mysql
 ```
 
 4. 运行禅道

@@ -1,5 +1,23 @@
 # 文档类项目
-文档类项目，自己的所有文档整理
+该文档类项目，是自己日常工作所需的，以及自己闲暇折腾的所有技术总结，包括以下技术栈：
+- .net core
+- java
+- spring boot
+- centos
+- ubuntu
+- vue,vue-element-admin
+- angular
+- ng-alain,ng-zarro-antd
+- git
+- docker
+- docker容器编排
+- gitlab,自动化部署
+- nginx
+- axure
+
+根据我工作的变化，以后还会增加
+
+可以看出我的工作很多，杂，穿插了运维，研发（前端，后端），产品等，没办法，劳碌命
 
 
 ### 根据日常需要，主要包括以下几类文档：

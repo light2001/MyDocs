@@ -79,6 +79,23 @@ docker run --name cool-mongo -p 27017:27017 -d --restart=always mongo
 ```
 sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d --restart=always mysql --lower_case_table_names=1
 ```
+上面最后一句话的意思是，忽略表名大小写
+运行后会出现无法登陆的问题，如下面所示：
+```
+2059 : Authentication plugin ‘caching_sha2_password’ cannot be loaded: 
+```
+- 解决步骤：
+    - 运行docker ps 查看容器列表，找到对应的mysql
+    - docker exec -it 容器序列号(那串英文数字的序列) /bin/bash
+    - 进入容器后，输入：mysql -u root -p ，会提示输入密码，输入：123456,可以看到提示符变成了mysql>
+    - 在这种状态下输入：
+    ```
+    ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY ‘123456’;
+    ```
+    - 退出镜像即可
+
+
+
 
 4. 运行禅道
 ```

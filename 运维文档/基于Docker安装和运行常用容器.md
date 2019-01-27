@@ -77,7 +77,7 @@ docker run --name cool-mongo -p 27017:27017 -d --restart=always mongo
 3. 运行mysql
 
 ```
-sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d --restart=always mysql
+sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d --restart=always mysql --lower_case_table_names=1
 ```
 
 4. 运行禅道

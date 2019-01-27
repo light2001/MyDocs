@@ -88,13 +88,16 @@ Docker启动，默认后会出现无法登陆的问题，如下面所示：
 ```
 - 解决步骤：
     - 运行docker ps 查看容器列表，找到对应的mysql
-    - docker exec -it 容器序列号(那串英文数字的序列) /bin/bash
+    - docker exec -it 容器序列号(那串英文数字的序列) /bin/bash，例如：
+    ```
+    docker exec -it 80334sdfj /bin/bash
+    ```
     - 进入容器后，输入：mysql -u root -p ，会提示输入密码，输入：123456,可以看到提示符变成了mysql>
     - 在这种状态下输入：
     ```
     ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY ‘123456’;
     ```
-    - 退出镜像即可
+    - 输入exit,退出mysql，再输入exit，退出镜像 即可
 
 
 

@@ -65,7 +65,11 @@
 - Git相关
    - [工作中常见git问题汇总](/编程文档/git/main.md)
 
-
+#### 免费软件推荐
+- [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
+- [免费的数据库查询工具heidisql](https://www.heidisql.com/download.php)
+- [Redis可视化工具Fastoredis](https://fastoredis.com/anonim_users_downloads)
+- [MongoDb可视化工具Robo3T](https://robomongo.org/download)
 
 #### 实战演练
 - [在centos7.5环境下配置实现.net core项目的自动化部署](/实战演练/自动化部署/main.md)

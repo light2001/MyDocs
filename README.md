@@ -89,10 +89,11 @@
 
 
 #### 专项课题(图文教学)
-- [win10环境安装Hyper-v虚拟机](/运维文档/在win10操作系统下安装Hyper-v.md)
-- [基于Hyper-v安装Centos7.5](/运维文档/通过Hyper-v安装Centos7.5.md)
-- [Centos7.5常用软件以及Docker的安装](/运维文档/在纯净的Centos7.5下安装常用软件和Docker.md)
-- [Docker常用操作以及容器安装运行](/运维文档/基于Docker安装和运行常用容器.md)
+- Win10环境在Hyper-v下安装Centos并运行Docker
+   - [win10环境安装Hyper-v虚拟机](/运维文档/在win10操作系统下安装Hyper-v.md)
+   - [基于Hyper-v安装Centos7.5](/运维文档/通过Hyper-v安装Centos7.5.md)
+   - [Centos7.5常用软件以及Docker的安装](/运维文档/在纯净的Centos7.5下安装常用软件和Docker.md)
+   - [Docker常用操作以及容器安装运行](/运维文档/基于Docker安装和运行常用容器.md)
 
 
 #### 优秀在线工具分享

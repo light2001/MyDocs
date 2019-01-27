@@ -67,7 +67,7 @@
 
 #### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
-- [免费的数据库查询工具heidisql](https://www.heidisql.com/download.php)
+- [免费的数据库查询工具HeidiSql](https://www.heidisql.com/download.php)
 - [Redis可视化工具Fastoredis](https://fastoredis.com/anonim_users_downloads)
 - [MongoDb可视化工具Robo3T](https://robomongo.org/download)
 
@@ -97,5 +97,5 @@
 
 
 #### 优秀在线工具分享
-- [蓝湖APP在线产品，设计图分享标注](https://lanhuapp.com/?home)
+- [蓝湖APP——在线产品，设计图，分享标注](https://lanhuapp.com/?home)
 - [在线流程图，脑图，设计稿](https://www.processon.com/)

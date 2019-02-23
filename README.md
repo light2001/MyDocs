@@ -54,6 +54,7 @@
    - [删除Docker镜像](https://www.cnblogs.com/q4486233/p/6482711.html)
    - [如果国内无法安装docker-ce，可以使用阿里的镜像仓库](https://blog.csdn.net/yohoph/article/details/80079078)
    - [部署Spring Boot项目注意事项](/运维文档/SpringBoot部署.md)
+   - [删除多余的虚悬镜像](/运维文档/虚悬镜像.md)
 
 - Nginx
    - [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)

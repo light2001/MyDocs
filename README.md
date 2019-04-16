@@ -103,3 +103,8 @@
 - draw.io
    - [在线网站](https://www.draw.io/)
    - [github](https://github.com/jgraph/drawio)
+
+
+#### 软件破解
+- [IDEA破解](https://blog.csdn.net/best_luxi/article/details/81479820)
+- [IDEA破解](https://blog.csdn.net/yl1712725180/article/details/80309862)

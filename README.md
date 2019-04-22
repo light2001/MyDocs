@@ -47,6 +47,9 @@
    - [怎么安装最新版的git](/运维文档/Ubuntu安装Git最新版.md)
    - [更换软件源](https://blog.csdn.net/zhangjiahao14/article/details/80554616)
    - [安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)
+   - [安装.NetCore](https://www.cnblogs.com/xyfy/p/9881855.html)
+   - [安装deepin软件](https://www.lulinux.com/archives/1319)
+
 - Docker
    - [如何配置加速器](https://blog.csdn.net/bwlab/article/details/50542261)
    - [阿里云Docker加速服务，如何使用](https://www.cnblogs.com/zhxshseu/p/5970a5a763c8fe2b01cd2eb63a8622b2.html)
@@ -55,8 +58,6 @@
    - [如果国内无法安装docker-ce，可以使用阿里的镜像仓库](https://blog.csdn.net/yohoph/article/details/80079078)
    - [部署Spring Boot项目注意事项](/运维文档/SpringBoot部署.md)
    - [删除多余的虚悬镜像](/运维文档/虚悬镜像.md)
-   - [安装.NetCore](https://www.cnblogs.com/xyfy/p/9881855.html)
-   - [安装deepin软件](https://www.lulinux.com/archives/1319)
 
 - Nginx
    - [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)

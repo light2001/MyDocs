@@ -40,10 +40,10 @@
    - [安装Maven](/运维文档/安装Maven.md)
    - [安装JDK8](/运维文档/安装Java.md)
 - Ubuntu18
-   - [怎么安装最新的nodejs](https://blog.csdn.net/chenyao1994/article/details/82495163)
+   - [怎么安装最新的NodeJs(才用安装方式)](https://blog.csdn.net/chenyao1994/article/details/82495163)
    - [怎么安装Chrome](https://www.cnblogs.com/cainiaoaixuexi/p/9033350.html)
    - [分辨率高以后，解决缩放问题](http://tieba.baidu.com/p/5670339451)
-   - [怎么安装Nodejs最新版](/运维文档/Ubuntu安装Nodejs.md)
+   - [怎么安装Nodejs最新版(采用解压缩方式)](/运维文档/Ubuntu安装Nodejs.md)
    - [怎么安装最新版的git](/运维文档/Ubuntu安装Git最新版.md)
    - [更换软件源](https://blog.csdn.net/zhangjiahao14/article/details/80554616)
    - [安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)

@@ -56,7 +56,7 @@
    - [部署Spring Boot项目注意事项](/运维文档/SpringBoot部署.md)
    - [删除多余的虚悬镜像](/运维文档/虚悬镜像.md)
    - [安装.NetCore](https://www.cnblogs.com/xyfy/p/9881855.html)
-   - [安装deepin软件](https://blog.csdn.net/qq_25987491/article/details/81364461)
+   - [安装deepin软件](https://www.lulinux.com/archives/1319)
 
 - Nginx
    - [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)

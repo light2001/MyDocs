@@ -81,6 +81,11 @@ sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d -
 ```
 上面最后一句话的意思是，忽略表名大小写
 
+如果出现时区问题，请加上参数：
+```
+-e TZ=Asia/Shanghai
+```
+
 
 Docker启动，默认后会出现无法登陆的问题，如下面所示：
 ```

@@ -83,7 +83,12 @@ sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d -
 
 如果出现时区问题，请加上参数：
 ```
--e TZ=Asia/Shanghai
+-e TZ=Asia/Shanghai --default-time_zone='+8:00'
+```
+
+完整的连接字符串是：
+```
+sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -p 3306:3306 -d --restart=always mysql --lower_case_table_names=1 -e TZ=Asia/Shanghai --default-time_zone='+8:00'
 ```
 
 

@@ -49,6 +49,11 @@
    - [安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)
    - [安装.NetCore](https://www.cnblogs.com/xyfy/p/9881855.html)
    - [安装Deepin,Wine软件](https://www.lulinux.com/archives/1319)
+- ManjaroLinux
+   - [新系统折腾](https://blog.csdn.net/github_39457740/article/details/84551304)
+   - [搜狗输入法](https://www.jianshu.com/p/1cde4b7ec3c2)
+   - [谷歌浏览器](https://blog.51cto.com/aurogon/2321871)
+   - [Docker](https://blog.csdn.net/albertjone/article/details/80266700)
 
 - Docker
    - [如何配置加速器](https://blog.csdn.net/bwlab/article/details/50542261)

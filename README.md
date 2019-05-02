@@ -84,47 +84,44 @@
    - [使用VSCode开发.NetCore](https://www.cnblogs.com/yilezhu/p/9926078.html)
 - ABP
 - Go
+   - [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)
 - Java
+- Nodejs
+   - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)
 
-#### 免费软件推荐
+### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
 - [免费的数据库查询工具HeidiSql](https://www.heidisql.com/download.php)
 - [Redis可视化工具Fastoredis](https://fastoredis.com/anonim_users_downloads)
 - [MongoDb可视化工具Robo3T](https://robomongo.org/download)
 
-#### 实战演练
+### 实战演练
 - [在centos7.5环境下配置实现.net core项目的自动化部署](/实战演练/自动化部署/main.md)
 
-### 开发语言
-- [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)
-- [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)
 
-
-#### 技术教程
-- [Docker在线教程](https://yeasy.gitbooks.io/docker_practice/content/)
-- [阮一峰的Docker入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
-
-
-#### 完整版教材
-- [Docker入门到实践，这个强推](https://www.gitbook.com/book/yeasy/docker_practice/details)
-
-
-#### 专项课题(图文教学)
+### 专项课题(图文教学)
 - Win10环境在Hyper-v下安装Centos并运行Docker
    - [win10环境安装Hyper-v虚拟机](/运维文档/在win10操作系统下安装Hyper-v.md)
    - [基于Hyper-v安装Centos7.5](/运维文档/通过Hyper-v安装Centos7.5.md)
    - [Centos7.5常用软件以及Docker的安装](/运维文档/在纯净的Centos7.5下安装常用软件和Docker.md)
    - [Docker常用操作以及容器安装运行](/运维文档/基于Docker安装和运行常用容器.md)
 
+### 技术教程
+- [Docker在线教程](https://yeasy.gitbooks.io/docker_practice/content/)
+- [阮一峰的Docker入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+   - 完整版教材
+      - [Docker入门到实践，这个强推](https://www.gitbook.com/book/yeasy/docker_practice/details)
 
+---
+## 其他内容（未分类）
 #### 优秀在线工具分享
 - [蓝湖APP——在线产品，设计图，分享标注](https://lanhuapp.com/?home)
 - [在线流程图，脑图，设计稿，文件数有上限](https://www.processon.com/)
 - draw.io
    - [在线网站](https://www.draw.io/)
-   - [github](https://github.com/jgraph/drawio)
+   - [开源地址](https://github.com/jgraph/drawio)
 
 
 #### 软件破解
-- [IDEA破解](https://blog.csdn.net/best_luxi/article/details/81479820)
-- [IDEA破解](https://blog.csdn.net/yl1712725180/article/details/80309862)
+- [IDEA破解1](https://blog.csdn.net/best_luxi/article/details/81479820)
+- [IDEA破解2](https://blog.csdn.net/yl1712725180/article/details/80309862)

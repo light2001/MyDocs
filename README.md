@@ -76,6 +76,11 @@
 - Git相关
    - [工作中常见git问题汇总](/编程文档/git/main.md)
 
+
+### 开发文档
+- .NetCore
+   - [使用VSCode开发.NetCore](https://www.cnblogs.com/yilezhu/p/9926078.html)
+
 #### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
 - [免费的数据库查询工具HeidiSql](https://www.heidisql.com/download.php)

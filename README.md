@@ -126,6 +126,7 @@
    - [开源地址](https://github.com/jgraph/drawio)
 
 
-#### 软件破解
-- [IDEA破解1](https://blog.csdn.net/best_luxi/article/details/81479820)
-- [IDEA破解2](https://blog.csdn.net/yl1712725180/article/details/80309862)
+#### 软件破解(有条件建议支持正版，或者使用免费的社区版)
+- IDEA
+   - [IDEA破解1](https://blog.csdn.net/best_luxi/article/details/81479820)
+   - [IDEA破解2](https://blog.csdn.net/yl1712725180/article/details/80309862)

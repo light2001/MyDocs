@@ -88,6 +88,7 @@
 - Go
    - [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)
 - Java
+   - [IDEA使用教程](https://www.jianshu.com/p/9c65b7613c30)
 - Nodejs
    - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)
    - [Koa2开源项目]

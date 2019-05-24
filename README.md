@@ -89,7 +89,13 @@
 - Go
    - [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)
 - Java
-   - [IDEA使用教程](https://www.jianshu.com/p/9c65b7613c30)
+   - IDEA部分
+      - [IDEA使用教程](https://www.jianshu.com/p/9c65b7613c30)
+      - [IDEA下Devtools配置](https://www.cnblogs.com/gmq-sh/p/7727367.html)
+      - [IDEA下Maven安装配置](https://www.cnblogs.com/sigm/p/6035155.html)
+   - Maven部分
+      - [Windows下Maven配置](https://www.cnblogs.com/haimishasha/p/8504421.html)
+      
 - Nodejs
    - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)
    - [Koa2开源项目]

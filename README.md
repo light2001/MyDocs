@@ -78,8 +78,9 @@
    - [工作中常见git问题汇总](/编程文档/git/main.md)
 - Gogs
    - [Gogs安装注意事项](https://www.cnblogs.com/phpisbest/p/7000255.html)
+   - [超详细教程](http://www.mdslq.cn/archives/1a623683.html)
 - Drone
-   - [Drone安装调试]()
+   - [Drone安装调试简单教程](https://cloud.tencent.com/developer/article/1379546)
 - Rancher
 - mysql
    - [Mysql导入导出](/运维文档/Mysql导入导出.md)

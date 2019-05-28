@@ -30,7 +30,7 @@
 #### 运维文档
 - Centos7
    - [安装Docker ce](/运维文档/Centos安装Docker.md)
-   - [防火墙入口配置](/运维文档/Centos环境下防火墙入口配置.md)
+   - [防火墙配置教程](/运维文档/Centos环境下防火墙配置.md)
    - [如何安装Docker下的禅道](https://blog.csdn.net/qq_28039297/article/details/78650552)
    - [如何安装Docker下的gitlab](https://www.cnblogs.com/xuezhigu/p/6555895.html)
    - [安装Docker下的Mysql，并启动](https://www.linuxidc.com/Linux/2017-09/146659.htm)

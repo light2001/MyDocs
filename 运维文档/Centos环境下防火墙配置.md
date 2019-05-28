@@ -9,6 +9,7 @@
 
 <a href="https://blog.csdn.net/irokay/article/details/72717132" target="_blank">Centos关闭默认防火墙，开启Iptables<a/>
 
+<a href="https://www.cnblogs.com/hubing/p/6058932.html" target="_blank">Centos firewall防火墙详解</a>
 
 #### firewalld使用简介
 ```

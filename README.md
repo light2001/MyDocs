@@ -81,6 +81,7 @@
    - [超详细教程](http://www.mdslq.cn/archives/1a623683.html)
 - Drone
    - [Drone安装调试简单教程](https://cloud.tencent.com/developer/article/1379546)
+   - [Drone+gogs简化教程](https://www.jianshu.com/p/fe2521afddcf)
 - Rancher
 - mysql
    - [Mysql导入导出](/运维文档/Mysql导入导出.md)

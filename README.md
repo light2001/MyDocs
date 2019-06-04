@@ -109,6 +109,9 @@
    - Nodejs
       - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)
       - [Koa2开源项目]
+   - Python
+      - [Python包管理pip如何用上国内镜像](https://www.cnblogs.com/wqpkita/p/7248525.html)
+      - [Python新利器之pipenv](https://www.jianshu.com/p/00af447f0005)
 - 前端语言
    - Vue
       - Vue管理框架收集

@@ -112,6 +112,7 @@
    - Python
       - [Python包管理pip如何用上国内镜像](https://www.cnblogs.com/wqpkita/p/7248525.html)
       - [Python新利器之pipenv](https://www.jianshu.com/p/00af447f0005)
+      - [python实现opencv学习一：安装、环境配置、工具](https://blog.csdn.net/u011321546/article/details/79499598)
 - 前端语言
    - Vue
       - Vue管理框架收集

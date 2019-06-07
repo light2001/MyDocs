@@ -94,6 +94,7 @@
       - [千星项目OpenAuth.Net基于.Net Core 2.1的快速开发框架,核心模块包括：组织机构、角色用户、权限授权、表单设计、工作流等。它的架构精良易于扩展，是中小企业的首选](https://github.com/yubaolee/OpenAuth.Core?tdsourcetag=s_pctim_aiomsg)
       - [NET, .NET CORE Open Source Workflow Engine 开源工作流引擎slickflow.com](https://github.com/besley/Slickflow?tdsourcetag=s_pctim_aiomsg)
       - [使用Identity Server 4建立Authorization Server (2)](https://www.cnblogs.com/cgzl/p/7788636.html)
+      - [IdentityServer4实现Token认证登录以及权限控制](https://www.cnblogs.com/jaycewu/p/7791102.html)
    - ABP
    - Go
       - [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)

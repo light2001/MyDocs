@@ -97,6 +97,7 @@
       - [IdentityServer4实现Token认证登录以及权限控制](https://www.cnblogs.com/jaycewu/p/7791102.html)
       - [ASP.NET Core 认证与授权[4]:JwtBearer认证](https://www.cnblogs.com/RainingNight/p/jwtbearer-authentication-in-asp-net-core.html)
       - [IdentityServer4-从数据库获取User登录并对Claims授权验证（五）](http://www.imooc.com/article/270521?block_id=tuijian_wz)
+      - [读取配置文件](https://www.cnblogs.com/Leo_wl/p/5709762.html)
    - ABP
    - Go
       - [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)

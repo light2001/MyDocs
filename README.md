@@ -95,6 +95,7 @@
       - [NET, .NET CORE Open Source Workflow Engine 开源工作流引擎slickflow.com](https://github.com/besley/Slickflow?tdsourcetag=s_pctim_aiomsg)
       - [使用Identity Server 4建立Authorization Server (2)](https://www.cnblogs.com/cgzl/p/7788636.html)
       - [IdentityServer4实现Token认证登录以及权限控制](https://www.cnblogs.com/jaycewu/p/7791102.html)
+      - [ASP.NET Core 认证与授权[4]:JwtBearer认证](https://www.cnblogs.com/RainingNight/p/jwtbearer-authentication-in-asp-net-core.html)
    - ABP
    - Go
       - [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)

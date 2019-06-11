@@ -114,6 +114,8 @@
          - [SpringBoot官网-项目创建(类似ABP)](https://start.spring.io)
       - 开源项目
          - [Spring平台整合activiti工作流引擎实例](https://github.com/shenzhanwang/Spring-activiti)
+      - Activity
+         - [手把手教你如何玩转Activiti工作流](https://blog.csdn.net/cs_hnu_scw/article/details/79059965)
          
    - Nodejs
       - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)

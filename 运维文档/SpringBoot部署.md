@@ -33,7 +33,7 @@
   FROM java:8
 
   WORKDIR /home
-  COPY CEX_Api-1.0.11.jar app.jar
+  COPY MyApp.jar app.jar
 
   ENTRYPOINT ["java","-jar","app.jar"]
 

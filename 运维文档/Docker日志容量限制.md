@@ -60,9 +60,6 @@ compose文件中配置日志信息
   sudo systemctl restart docker
 
 ```
----
-#### 本文引用来源地址：
-[Docker容器日志打满机器的解决方式](https://www.missshi.cn/api/view/blog/5c4c18a8c7e01951d5000001)
 
 
 #### 真实案例：
@@ -79,4 +76,13 @@ du -h -x --max-depth=1
 - 根据返回结果，层层查找，最终定位到 /var/lib/docker/containers/目录下， 这个目录是存放docker资料的地方
 - 在这个目录输入上面的命令，会发现某个目录容量特别大，进入目录后，发现json.log日志居然有33g
 - 删除后，重启docker服务，问题得到解决
+
+经验总结：
+
+    大家在使用Gitlab的时候一定要注意限制他的日志大小，本人所使用的gitlab，总共使用时间大概9个月左右，就有33g这么大的日志，可见还是有必要限制一下的
     
+
+---
+#### 本文引用来源地址：
+[Docker容器日志打满机器的解决方式](https://www.missshi.cn/api/view/blog/5c4c18a8c7e01951d5000001)
+

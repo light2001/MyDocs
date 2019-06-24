@@ -62,6 +62,7 @@
    - [部署Spring Boot项目注意事项](/运维文档/SpringBoot部署.md)
    - [删除多余的虚悬镜像](/运维文档/虚悬镜像.md)
    - [Portainer.io介绍(Docker图形化管理工具)](https://www.cnblogs.com/river2005/p/8283700.html)
+   - [限制Docker容器的日志容量-过大会导致磁盘空间满](/运维文档/Docker日志容量限制.md)
    - 镜像加速
       - [Docker阿里云加速器链接地址](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
       - [如何配置加速器](https://blog.csdn.net/bwlab/article/details/50542261)

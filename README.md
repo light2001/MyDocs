@@ -119,6 +119,7 @@
          - [手把手教你如何玩转Activiti工作流](https://blog.csdn.net/cs_hnu_scw/article/details/79059965)
          - [如何学习Activit-官网](https://www.activiti.org/userguide/)
          - [在线API文档](https://www.activiti.org/javadocs/index.html)
+         - [Activiti进阶（一）--工作流（流程框架）](https://blog.csdn.net/qq_42112846/article/details/81106814)
          
    - Nodejs
       - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)

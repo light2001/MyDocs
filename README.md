@@ -117,6 +117,8 @@
          - [Spring平台整合activiti工作流引擎实例](https://github.com/shenzhanwang/Spring-activiti)
       - Activity
          - [手把手教你如何玩转Activiti工作流](https://blog.csdn.net/cs_hnu_scw/article/details/79059965)
+         - [如何学习Activit-官网](https://www.activiti.org/userguide/)
+         - [在线API文档](https://www.activiti.org/javadocs/index.html)
          
    - Nodejs
       - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)

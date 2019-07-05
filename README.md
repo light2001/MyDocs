@@ -113,6 +113,7 @@
          - [纯洁的微笑官网](http://www.ityouknow.com)
          - [SpringBoot系列教程](https://www.cnblogs.com/ityouknow/p/5662753.html)
          - [SpringBoot官网-项目创建(类似ABP)](https://start.spring.io)
+         - [springboot项目启动后，自动打开默认浏览器](https://blog.csdn.net/superlover_/article/details/88418934)
       - 开源项目
          - [Spring平台整合activiti工作流引擎实例](https://github.com/shenzhanwang/Spring-activiti)
       - Activity

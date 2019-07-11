@@ -1,5 +1,8 @@
 #### Hyper-v虚拟机环境下的Centos7磁盘扩容
 
+首先参考下面的文章：
+
+
 [Hyper-v下Centos7使用LVM实现动态扩容磁盘](http://www.apoyl.com/?p=2232)
 
 其中还缺关键的一部

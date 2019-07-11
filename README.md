@@ -39,6 +39,7 @@
    - [安装Chrome浏览器](https://www.cnblogs.com/ianduin/p/8727333.html)
    - [安装Maven](/运维文档/安装Maven.md)
    - [安装JDK8](/运维文档/安装Java.md)
+   - [Hyper-v环境下，磁盘空间满，扩容处理](/运维文档/虚拟机环境下Centos7磁盘扩容.md)
 - Ubuntu18
    - [怎么安装最新的NodeJs(采用安装方式)](https://blog.csdn.net/chenyao1994/article/details/82495163)
    - [怎么安装Chrome](https://www.cnblogs.com/cainiaoaixuexi/p/9033350.html)

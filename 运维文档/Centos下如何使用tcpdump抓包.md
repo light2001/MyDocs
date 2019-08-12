@@ -11,6 +11,8 @@ yum install -y tcpdump
 
 tcpdump dst 192.168.0.33 -s 0 -c 100 -w /home/target.cap
 
+tcpdump src 192.168.0.33 -s 0 -c 100 -w /home/target.cap
+
 ```
 
 #### 参考资料：

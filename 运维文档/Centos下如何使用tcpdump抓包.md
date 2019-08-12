@@ -18,3 +18,4 @@ tcpdump dst 192.168.0.33 -s 0 -c 100 -w /home/target.cap
 - [抓包总结](https://www.cnblogs.com/chenpingzhao/p/9108570.html)
 - [Tcpdump命令的使用与示例](https://www.iteblog.com/tcpdump_usage/)
 - [Linux tcpdump命令](https://www.runoob.com/linux/linux-comm-tcpdump.html)
+- [CentOS下使用tcpdump网络抓包-这个更简单明了一点](https://www.cnblogs.com/magic-chenyang/p/10620600.html)

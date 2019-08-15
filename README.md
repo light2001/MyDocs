@@ -34,7 +34,7 @@
    - [如何安装Docker下的禅道](https://blog.csdn.net/qq_28039297/article/details/78650552)
    - [如何安装Docker下的gitlab](https://www.cnblogs.com/xuezhigu/p/6555895.html)
    - [安装Docker下的Mysql，并启动](https://www.linuxidc.com/Linux/2017-09/146659.htm)
-   - [安装Nodejs最新版的三种方式](https://blog.csdn.net/bbwangj/article/details/82253785)
+   - [安装Nodejs最靠谱的方式](https://www.cnblogs.com/betx/p/10347797.html)
    - [安装nginx](https://blog.csdn.net/oldguncm/article/details/78855000)
    - [安装Chrome浏览器](https://www.cnblogs.com/ianduin/p/8727333.html)
    - [安装Maven](/运维文档/安装Maven.md)

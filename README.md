@@ -65,6 +65,8 @@
    - [删除多余的虚悬镜像](/运维文档/虚悬镜像.md)
    - [Portainer.io介绍(Docker图形化管理工具)](https://www.cnblogs.com/river2005/p/8283700.html)
    - [限制Docker容器的日志容量-过大会导致磁盘空间满](/运维文档/Docker日志容量限制.md)
+   - [容器导出迁移到其他机器](https://www.jianshu.com/p/4e862a2a2d03)
+   - [给容器打标签-tag](https://www.cnblogs.com/weifeng1463/p/11190567.html)
    - 镜像加速
       - [Docker阿里云加速器链接地址](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
       - [如何配置加速器](https://blog.csdn.net/bwlab/article/details/50542261)
@@ -79,6 +81,7 @@
    - [在Linux下生成SSH Key，然后免key登陆GitLab](https://blog.csdn.net/y1574406771/article/details/72676980)
 - Git相关
    - [工作中常见git问题汇总](/编程文档/git/main.md)
+   - [gitlab迁移，备份恢复](https://www.cnblogs.com/breakering/p/9712040.html)
 - 自动化部署(CICD
    - Gogs
       - [Gogs安装注意事项](https://www.cnblogs.com/phpisbest/p/7000255.html)

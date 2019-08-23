@@ -41,6 +41,7 @@
    - [安装JDK8](/运维文档/安装Java.md)
    - [Hyper-v环境下，磁盘空间满，扩容处理](/运维文档/虚拟机环境下Centos7磁盘扩容.md)
    - [如何分析网络流量，使用tcpdump](./运维文档/Centos下如何使用tcpdump抓包.md)
+   - [Samba连接widnows](https://blog.csdn.net/csdn_immortal/article/details/81868869)
 - Ubuntu18
    - [怎么安装最新的NodeJs(采用安装方式)](https://blog.csdn.net/chenyao1994/article/details/82495163)
    - [怎么安装Chrome](https://www.cnblogs.com/cainiaoaixuexi/p/9033350.html)

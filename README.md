@@ -58,6 +58,7 @@
    - [搜狗输入法](https://www.jianshu.com/p/1cde4b7ec3c2)
    - [谷歌浏览器](https://blog.51cto.com/aurogon/2321871)
    - [Docker](https://blog.csdn.net/albertjone/article/details/80266700)
+   - [Npm部署前端项目，权限问题解决](https://www.cnblogs.com/dunke/p/10224770.html)
 
 - Docker
    - [连接到已经打开的容器](https://www.cnblogs.com/zhuxiaojie/p/5947270.html)

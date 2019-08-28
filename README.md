@@ -43,6 +43,8 @@
    - [如何分析网络流量，使用tcpdump](./运维文档/Centos下如何使用tcpdump抓包.md)
    - [Samba连接widnows](https://blog.csdn.net/yexiangcsdn/article/details/82867469)
    - [Samba挂载windows目录](/运维文档/samba如何和windows共享交互.md)
+   - [Npm部署前端项目，权限问题解决](https://www.cnblogs.com/dunke/p/10224770.html)
+
 - Ubuntu18
    - [怎么安装最新的NodeJs(采用安装方式)](https://blog.csdn.net/chenyao1994/article/details/82495163)
    - [怎么安装Chrome](https://www.cnblogs.com/cainiaoaixuexi/p/9033350.html)
@@ -58,7 +60,6 @@
    - [搜狗输入法](https://www.jianshu.com/p/1cde4b7ec3c2)
    - [谷歌浏览器](https://blog.51cto.com/aurogon/2321871)
    - [Docker](https://blog.csdn.net/albertjone/article/details/80266700)
-   - [Npm部署前端项目，权限问题解决](https://www.cnblogs.com/dunke/p/10224770.html)
 
 - Docker
    - [连接到已经打开的容器](https://www.cnblogs.com/zhuxiaojie/p/5947270.html)

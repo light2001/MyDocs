@@ -119,8 +119,8 @@ Docker启动，默认后会出现无法登陆的问题，如下面所示：
 
 4. 运行禅道
 ```
-mkdir -p /data/zbox && docker run -d -p 81:80 -p 3306:3306 \
-        -e USER="root" -e PASSWD="password" \
+mkdir -p /data/zbox && docker run -d -p 8098:80 -p 3306:3306 \
+        -e USER="root" -e PASSWD="123456" \
         -e BIND_ADDRESS="false" \
         -e SMTP_HOST="163.177.90.125 smtp.exmail.qq.com" \
         -v /data/zbox/:/opt/zbox/ \

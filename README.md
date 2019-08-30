@@ -140,6 +140,7 @@
       - [Koa2开源项目]
    - Python
       - [Python包管理pip如何用上国内镜像](https://www.cnblogs.com/wqpkita/p/7248525.html)
+      - [Python pip 国内镜像大全及使用办法](https://blog.csdn.net/madrabbit1987/article/details/81677114)
       - [Python新利器之pipenv](https://www.jianshu.com/p/00af447f0005)
       - [python实现opencv学习一：安装、环境配置、工具](https://blog.csdn.net/u011321546/article/details/79499598)
 - 前端语言

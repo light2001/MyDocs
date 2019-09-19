@@ -135,6 +135,8 @@
          - [如何学习Activit-官网](https://www.activiti.org/userguide/)
          - [在线API文档](https://www.activiti.org/javadocs/index.html)
          - [Activiti进阶（一）--工作流（流程框架）](https://blog.csdn.net/qq_42112846/article/details/81106814)
+      - ORM部分
+         - [mybatis常用方法](https://blog.csdn.net/mr_chenjie_c/article/details/80068510)
          
    - Nodejs
       - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)

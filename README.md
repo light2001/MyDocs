@@ -98,6 +98,8 @@
    - Rancher
 - mysql
    - [Mysql导入导出](/运维文档/Mysql导入导出.md)
+- MQTT
+   - [mosquitto安装](/运维文档/Mosquitto安装使用.md)
 
 ### 开发文档
 - 后端语言
@@ -139,6 +141,8 @@
       - ORM部分
          - [mybatis常用方法](https://blog.csdn.net/mr_chenjie_c/article/details/80068510)
          - [mybatis官网](https://mybatis.org/mybatis-3/zh/index.html)
+         - [MybatisPlus官方文档](https://mp.baomidou.com/guide/)
+         - [Jfinal文档](http://www.jfinal.com/)
          
    - Nodejs
       - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)

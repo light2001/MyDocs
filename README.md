@@ -131,6 +131,7 @@
          - [SpringBoot官网-项目创建(类似ABP)](https://start.spring.io)
          - [springboot项目启动后，自动打开默认浏览器](https://blog.csdn.net/superlover_/article/details/88418934)
          - [整合Jpa范例](https://www.cnblogs.com/sam-uncle/p/8819478.html)
+         - [Jpa多数据源范例](https://blog.csdn.net/abcwanglinyong/article/details/85924615)
       - 开源项目
          - [Spring平台整合activiti工作流引擎实例](https://github.com/shenzhanwang/Spring-activiti)
       - Activity

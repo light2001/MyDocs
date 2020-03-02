@@ -22,3 +22,9 @@
   ~~~
   docker run -di --name=mykibana -p 5601:5601 -v /d/Hyper-v/Docker/kibana/config:/usr/share/kibana/config kibana
   ~~~
+
+  下面是Logstash的运行语句
+
+  ~~~
+  docker run -di --name=mylogstash -v /d/Hyper-v/Docker/logstash/config:/usr/share/logstash/config -v /d/Hyper-v/Docker/logstash/pipeline:/usr/share/logstash/pipeline logstash:7.6.0
+  ~~~

@@ -77,6 +77,7 @@
       - [Docker阿里云加速器链接地址](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
       - [如何配置加速器](https://blog.csdn.net/bwlab/article/details/50542261)
       - [阿里云Docker加速服务，DockerForWindows](https://www.cnblogs.com/zhxshseu/p/5970a5a763c8fe2b01cd2eb63a8622b2.html)
+   - [如何安装ELK](/运维文档/安装ELK.md)
 
 - Nginx
    - [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)

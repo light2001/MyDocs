@@ -18,3 +18,9 @@ https://blog.csdn.net/qq1031893936/article/details/93798646
   docker pull elasticsearch:7.6.0
   docker pull kibana:7.6.0
   ~~~
+
+  由于我的Dicker卷文件放在D盘，这里记录下我的Kibana运行语句
+
+  ~~~
+  docker run -di --name=mykibana -p 5601:5601 -v /d/Hyper-v/Docker/kibana/config:/usr/share/kibana/config kibana
+  ~~~

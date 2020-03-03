@@ -17,6 +17,15 @@
   docker pull kibana:7.6.0
   ~~~
 
+  这里要特别说明下，文章里Elasticsearch的IK分词器由于墙的存在是无法安装的，必须手动下载并解压缩后，然后复制到elasrarch/plugins/ 目录下，并将目录改名为：analysis-ik，并且使用elasticsearch-plugin list能查询到即可
+
+  也可以安装 smart-cn分词器，安装方法：
+
+  ~~~
+  cd /usr/share/elasticsearch/bin
+  elasticsearch-plugin install smart-cn
+  ~~~
+
   由于我的Dicker卷文件放在D盘，这里记录下我的Kibana运行语句
 
   ~~~

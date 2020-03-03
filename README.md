@@ -78,6 +78,7 @@
       - [如何配置加速器](https://blog.csdn.net/bwlab/article/details/50542261)
       - [阿里云Docker加速服务，DockerForWindows](https://www.cnblogs.com/zhxshseu/p/5970a5a763c8fe2b01cd2eb63a8622b2.html)
    - [如何安装ELK](/运维文档/安装ELK.md)
+   - [Elastic-Plugin插件安装教程](https://my.oschina.net/u/2342969/blog/2252364)
 
 - Nginx
    - [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)
@@ -169,7 +170,7 @@
       - [Ng-alain](https://ng-alain.com/zh)
       - [Ng-zorro-antd](https://ng.ant.design/docs/introduce/zh)
    - React
-   - Electron 
+   - Electron
       - [解决install.js卡死的问题](https://www.jianshu.com/p/eac8f37d6992)
 
 ### 免费软件推荐

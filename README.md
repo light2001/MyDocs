@@ -169,6 +169,8 @@
       - [Ng-alain](https://ng-alain.com/zh)
       - [Ng-zorro-antd](https://ng.ant.design/docs/introduce/zh)
    - React
+   - Electron 
+      - [解决install.js卡死的问题](https://www.jianshu.com/p/eac8f37d6992)
 
 ### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)

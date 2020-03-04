@@ -104,6 +104,7 @@
    - [mosquitto安装](/运维文档/Mosquitto安装使用.md)
 - ELK
    - [Elasticsearch RestFul使用教程](https://blog.csdn.net/gwd1154978352/article/details/82804942)
+   - [Elasticsearch增删改查演练](/运维文档/Elasticsearch测试.md)
 
 ### 开发文档
 - 后端语言

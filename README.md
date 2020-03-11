@@ -24,8 +24,7 @@
 
 #### 国内镜像地址
 
-   如果觉得速度慢，可以访问国内的镜像地址  
-   [https://gitee.com/light2001/MyDocs](https://gitee.com/light2001/MyDocs)
+   如果觉得速度慢，可以访问国内的镜像地址  [https://gitee.com/light2001/MyDocs](https://gitee.com/light2001/MyDocs)
 
 #### Github
 

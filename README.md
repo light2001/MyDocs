@@ -23,6 +23,11 @@
    如果觉得速度慢，可以访问国内的镜像地址  
    [https://gitee.com/light2001/MyDocs](https://gitee.com/light2001/MyDocs)
 
+#### Github同步地址
+
+   本项目原始地址在github上，点击可以跳转
+   [https://github.com/light2001/MyDocs](https://github.com/light2001/MyDocs)
+
 ### 根据日常需要，主要包括以下几类文档：
 - 运维类
 - 研发类

@@ -18,15 +18,21 @@
 
 可以看出我的工作多而且杂，穿插了运维，研发（前端，后端），没办法，劳碌命
 
+
+#### 代码仓库
+---
+
 #### 国内镜像地址
 
    如果觉得速度慢，可以访问国内的镜像地址  
    [https://gitee.com/light2001/MyDocs](https://gitee.com/light2001/MyDocs)
 
-#### Github同步地址
+#### Github
 
    本项目原始地址在github上，点击可以跳转
    [https://github.com/light2001/MyDocs](https://github.com/light2001/MyDocs)
+
+---
 
 ### 根据日常需要，主要包括以下几类文档：
 - 运维类

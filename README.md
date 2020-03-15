@@ -87,6 +87,7 @@
    - [限制Docker容器的日志容量-过大会导致磁盘空间满](/运维文档/Docker日志容量限制.md)
    - [容器导出迁移到其他机器](https://www.jianshu.com/p/4e862a2a2d03)
    - [给容器打标签-tag](https://www.cnblogs.com/weifeng1463/p/11190567.html)
+   - [修改已经运行的容器参数](https://www.cnblogs.com/ExMan/p/11613148.html)
    - 镜像加速
       - [Docker阿里云加速器链接地址](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
       - [如何配置加速器](https://blog.csdn.net/bwlab/article/details/50542261)

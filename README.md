@@ -136,8 +136,6 @@
       - [如何用指定端口运行项目](/编程文档/使用指定端口运行项目.md)
       - [EntityFreamework如何设置查询超时](/编程文档/EF设置查询超时.md)
    - ABP
-   - Go
-      - [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)
    - Java
       - IDEA部分
          - [IDEA使用教程](https://www.jianshu.com/p/9c65b7613c30)
@@ -167,6 +165,7 @@
    - Go 
       - [Go的gui库Walk简单使用](https://blog.csdn.net/bw761813/article/details/89673030)
       - [Walk库仓库](https://github.com/lxn/walk)
+      - [go语言环境配置](https://blog.csdn.net/u013295518/article/details/78766086)
    - Nodejs
       - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)
       - [Koa2开源项目]

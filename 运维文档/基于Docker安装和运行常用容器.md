@@ -93,7 +93,7 @@ sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -e TZ=Asia/Shangh
 
 可选参数，把data放在宿主机
 ```
-sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -e TZ=Asia/Shanghai -p 3306:3306 -d --restart=always mysql --lower_case_table_names=1 -v /d/docker/data/mysql:/var/lib/mysql -v /d/docker/data/mysql/conf:/etc/mysql/conf.d
+sudo docker run --name pwc-mysql -e MYSQL_ROOT_PASSWORD=123456 -e TZ=Asia/Shanghai -p 3306:3306 -d --restart=always mysql --lower_case_table_names=1 -v /d/docker/data/mysql:/var/lib/mysql -v D:/docker/data/mysql/conf:/etc/mysql/conf.d
 ```
 
 

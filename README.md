@@ -95,6 +95,7 @@
    - [如何安装ELK](/运维文档/安装ELK.md)
    - [Elastic-Plugin插件安装教程](https://my.oschina.net/u/2342969/blog/2252364)
    - [安装Kafka](https://www.jianshu.com/p/9552871bb40a)
+   - [安装RabbitMq](https://www.cnblogs.com/angelyan/p/11218260.html)
 
 - Nginx
    - [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)

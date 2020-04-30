@@ -96,6 +96,7 @@
    - [Elastic-Plugin插件安装教程](https://my.oschina.net/u/2342969/blog/2252364)
    - [安装Kafka](https://www.jianshu.com/p/9552871bb40a)
    - [安装RabbitMq](https://www.cnblogs.com/angelyan/p/11218260.html)
+   - [安装RocketMq](https://zhuanlan.zhihu.com/p/133792711)
 
 - Nginx
    - [nginx端口转发因为selinx无法运行，不关闭selinux的解决办法](https://blog.csdn.net/babys/article/details/54135438)

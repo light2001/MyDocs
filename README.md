@@ -211,7 +211,7 @@
 ### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
 - [免费的数据库查询工具HeidiSql](https://www.heidisql.com/download.php)
-- [Another Redis DeskTop Manager](https://github.com/qishibo/AnotherRedisDesktopManager/)
+- [连接Redis的开源客户端软件](https://github.com/qishibo/AnotherRedisDesktopManager/)
 - [MongoDb可视化工具Robo3T](https://robomongo.org/download)
 
 ### 实战演练

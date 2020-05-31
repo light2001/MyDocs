@@ -191,6 +191,7 @@
       - [python实现opencv学习一：安装、环境配置、工具](https://blog.csdn.net/u011321546/article/details/79499598)
    - Lua
       - [API网关Kong和KongA](https://segmentfault.com/a/1190000020375323?utm_source=tag-newest)
+      - [开源API网关系统（Kong教程）入门到精通](https://www.jianshu.com/p/a68e45bcadb6)
    
 - 前端语言
    - Vue

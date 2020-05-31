@@ -141,6 +141,7 @@
       - [Nuget配置第三方源，缓存目录](https://cloud.tencent.com/developer/article/1342253)
       - [如何用指定端口运行项目](/编程文档/使用指定端口运行项目.md)
       - [EntityFreamework如何设置查询超时](/编程文档/EF设置查询超时.md)
+      - [Jetbrains家出的良心产品，免费的反编译软件dotPeek](https://www.jetbrains.com/decompiler/)
    - ABP
    - Java
       - IDEA部分

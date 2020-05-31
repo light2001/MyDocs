@@ -211,7 +211,7 @@
 ### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
 - [免费的数据库查询工具HeidiSql](https://www.heidisql.com/download.php)
-- [Redis可视化工具Fastoredis](https://fastoredis.com/anonim_users_downloads)
+- [Another Redis DeskTop Manager](https://github.com/qishibo/AnotherRedisDesktopManager/)
 - [MongoDb可视化工具Robo3T](https://robomongo.org/download)
 
 ### 实战演练
@@ -240,9 +240,3 @@
 - draw.io
    - [在线网站](https://www.draw.io/)
    - [开源地址](https://github.com/jgraph/drawio)
-
-<!-- 
-#### 软件破解(有条件建议支持正版，或者使用免费的社区版)
-- IDEA
-   - [IDEA破解1](https://blog.csdn.net/best_luxi/article/details/81479820)
-   - [IDEA破解2](https://blog.csdn.net/yl1712725180/article/details/80309862) -->

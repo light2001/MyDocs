@@ -124,6 +124,8 @@
 - ELK
    - [Elasticsearch RestFul使用教程](https://blog.csdn.net/gwd1154978352/article/details/82804942)
    - [Elasticsearch增删改查演练](/运维文档/Elasticsearch测试.md)
+- 堡垒机
+   - [正在使用的堡垒机](https://www.jumpserver.org/#)
 
 ### 开发文档
 - 后端语言
@@ -166,6 +168,13 @@
          - [mybatis官网](https://mybatis.org/mybatis-3/zh/index.html)
          - [MybatisPlus官方文档](https://mp.baomidou.com/guide/)
          - [Jfinal文档](http://www.jfinal.com/)
+      - 大数据
+         - [ClickHouse深度揭秘](https://zhuanlan.zhihu.com/p/98135840)
+         - [官网文档](https://clickhouse.tech/docs/zh/development/architecture/)
+         - [携程用ClickHouse轻松玩转每天十亿级数据更新](https://www.sohu.com/a/332065480_411876)
+         - [druid和clickhouse得比较](https://www.cnblogs.com/029zz010buct/p/12674287.html)
+         - [Spark与Flink对比](https://www.cnblogs.com/tesla-turing/p/12509254.html)
+         
    - Go 
       - [Go的gui库Walk简单使用](https://blog.csdn.net/bw761813/article/details/89673030)
       - [Walk库仓库](https://github.com/lxn/walk)
@@ -178,6 +187,9 @@
       - [Python pip 国内镜像大全及使用办法](https://blog.csdn.net/madrabbit1987/article/details/81677114)
       - [Python新利器之pipenv](https://www.jianshu.com/p/00af447f0005)
       - [python实现opencv学习一：安装、环境配置、工具](https://blog.csdn.net/u011321546/article/details/79499598)
+   - Lua
+      - [API网关Kong和KongA](https://segmentfault.com/a/1190000020375323?utm_source=tag-newest)
+   
 - 前端语言
    - Vue
       - Vue管理框架收集

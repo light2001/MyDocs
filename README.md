@@ -216,6 +216,12 @@
    - Electron
       - [解决install.js卡死的问题](https://www.jianshu.com/p/eac8f37d6992)
 
+### BI分析
+- [轻量级BI工具Superset的搭建与使用](https://www.jianshu.com/p/b02fcea7eb5b)
+- PowerBI
+   - [powerbi官网](https://app.powerbi.cn/)
+   - [Dax函数大全](https://www.powerbigeek.com/dax-functions-previousday/?f=1)
+
 ### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
 - [免费的数据库查询工具HeidiSql](https://www.heidisql.com/download.php)

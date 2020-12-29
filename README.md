@@ -181,6 +181,8 @@
          - [携程用ClickHouse轻松玩转每天十亿级数据更新](https://www.sohu.com/a/332065480_411876)
          - [druid和clickhouse得比较](https://www.cnblogs.com/029zz010buct/p/12674287.html)
          - [Spark与Flink对比](https://www.cnblogs.com/tesla-turing/p/12509254.html)
+      - JDK
+         - [AwsCorretto-免费JDK](https://aws.amazon.com/cn/corretto/)
          
    - Go 
       - [Go的gui库Walk简单使用](https://blog.csdn.net/bw761813/article/details/89673030)

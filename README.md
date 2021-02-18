@@ -217,6 +217,8 @@
    - React
    - Electron
       - [解决install.js卡死的问题](https://www.jianshu.com/p/eac8f37d6992)
+- 代码审查
+   - [如何在团队中使用代码审查机制](https://www.cnblogs.com/kentalk/p/gitlab-code-review-tutorial.html)
 
 ### BI分析
 - [轻量级BI工具Superset的搭建与使用](https://www.jianshu.com/p/b02fcea7eb5b)

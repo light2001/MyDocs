@@ -18,12 +18,8 @@
 
 可以看出我的工作多而且杂，穿插了运维，研发（前端，后端），没办法，劳碌命
 
-
-#### 代码仓库
----
-
-
----
+### 实战演练
+- [在centos7.5环境下配置实现.net core项目的自动化部署](/实战演练/自动化部署/main.md)
 
 ### 根据日常需要，主要包括以下几类文档：
 - 运维类
@@ -224,8 +220,6 @@
 - [连接Redis的开源客户端软件](https://github.com/qishibo/AnotherRedisDesktopManager/)
 - [MongoDb可视化工具Robo3T](https://robomongo.org/download)
 
-### 实战演练
-- [在centos7.5环境下配置实现.net core项目的自动化部署](/实战演练/自动化部署/main.md)
 
 
 ### 专项课题(图文教学)

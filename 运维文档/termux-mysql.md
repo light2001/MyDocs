@@ -7,6 +7,8 @@
 ~~~
   # 搜索数据库，看是否存在
   pkg search mysql
+![Uploading image.png…]()
+
 ~~~
   
   

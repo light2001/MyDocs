@@ -4,14 +4,16 @@
 
 #### 安装步骤
 - 安装服务器端软件
+
+##### 搜索数据库，看是否存在
+
 ~~~
-  # 搜索数据库，看是否存在
-  pkg search mysql
+pkg search mysql
 ~~~
   ![image](https://github.com/light2001/MyDocs/assets/3821091/5c2b42ec-63e4-4c27-9c3e-906fbd46c76f)
 
+##### 安装软件
 ~~~
-# 安装软件
 pkg install mariadb
 ~~~
 - 调整配置文件

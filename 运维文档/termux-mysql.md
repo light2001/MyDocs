@@ -19,7 +19,31 @@ pkg search mysql
 pkg install mariadb
 ~~~
 - 调整配置文件
+~~~
+cd /data/data/com.termux/files/usr/etc
+nvim my.cnf
+
+# 我的配置如下：
+[mysqld]
+init-connect='SET NAMES utf8mb4'
+character-set-server = utf8mb4
+collation-server = utf8mb4_unicode_ci
+[client]
+default-character-set=utf8mb4
+
+!includedir /data/data/com.termux/files/usr/etc/my.cnf.d
+~~~
+
 - 启动数据库服务
+~~~
+mysqld_safe -u root &
+~~~
+查看是否启动成功：
+~~~
+ps -ef | grep mysqld
+~~~
+![image](https://github.com/light2001/MyDocs/assets/3821091/347c3e6e-396c-498d-bafe-0dca03475b4e)
+
 - 客户端连接
 - 创建数据库
 - 导入数据

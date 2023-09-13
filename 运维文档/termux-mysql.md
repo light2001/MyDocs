@@ -7,9 +7,9 @@
   ···
   # 搜索数据库，看是否存在
   pkg search mysql
-  ![Uploading image.png…]()
-
-  ···
+   ···
+   ![Uploading image.png…]()
+  
 - 调整配置文件
 - 启动数据库服务
 - 客户端连接

@@ -7,7 +7,7 @@
 - android
    - termux
         - 如何安装常用软件
-        - 安装Mysql
+        - [安装Mysql](/运维文档/termux-mysql.md)
         - 安装Redis
         - 安装Java环境
 - ubuntu

@@ -20,6 +20,7 @@
 - angular
 - ng-alain,ng-zarro-antd
 - git
+   - 如果有两个git账号怎么配置
 - docker
 - docker容器编排
 - gitlab,自动化部署

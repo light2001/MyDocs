@@ -11,6 +11,8 @@
         - [安装Mysql](/运维文档/termux-mysql.md)
         - 安装Redis
         - 安装Java环境
+        - 安装Nodejs
+        - 在手机端运行ruoyi-vue这个开源项目
 - ubuntu
 - vue,vue-element-admin
 - angular

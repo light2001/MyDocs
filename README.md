@@ -16,7 +16,7 @@
 - IOS
   - ISH
 - ubuntu
-- vue,vue-element-admin
+- vue/vue-element-admin
 - angular
 - ng-alain,ng-zarro-antd
 - git

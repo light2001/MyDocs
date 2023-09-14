@@ -70,7 +70,7 @@ select * from user;
 CREATE DATABASE `mydatabase` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8_general_ci;
 ~~~
 
-- 导入数据
+- 导入初始数据
 ~~~
 mysql -u root -p
 use mydatabase;

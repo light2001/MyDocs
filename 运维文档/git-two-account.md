@@ -8,12 +8,15 @@
   - local 最高
   - system 最低
   - global 次高
+    
   ~~~
   git config --local user.name = light2001
   git config --local user.email = 332976194@qq.com
   git config --local credential.helper store
   ~~~
+  
   这时候可以查看一下是否配置到位：
+  
   ![image](https://github.com/light2001/MyDocs/assets/3821091/edeb1270-fdb0-44ae-8c82-d74921d0fa6f)
 
 - 设置推送账号
@@ -24,5 +27,7 @@
   参考：https://www.baeldung.com/ops/git-configure-credentials
 
   - 查看.git-credential
+
     ![image](https://github.com/light2001/MyDocs/assets/3821091/aafa77e7-1eee-47c2-bdd4-0b590eb73629)
+    
     可以看到有好不同的记录

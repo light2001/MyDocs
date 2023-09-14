@@ -19,8 +19,7 @@
   ~~~
   
   这时候可以查看一下是否配置到位：
-  
-  ![image](https://github.com/light2001/MyDocs/assets/3821091/edeb1270-fdb0-44ae-8c82-d74921d0fa6f)
+
 
 - 设置当前目录的账号密码，设置后会存在 ~/.git-credentials 文件里，以加密方式存储
   ~~~

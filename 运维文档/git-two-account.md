@@ -21,9 +21,9 @@
   
   ![image](https://github.com/light2001/MyDocs/assets/3821091/edeb1270-fdb0-44ae-8c82-d74921d0fa6f)
 
-- 设置推送账号
+- 设置当前目录的账号密码，设置后会存在 ~/.git-credentials 文件里，以加密方式存储
   ~~~
-  git config --global credential.https://github.com.username <your_username>
+  git config --local credential.https://github.com.username <your_username>
   ~~~
 
   参考：https://www.baeldung.com/ops/git-configure-credentials

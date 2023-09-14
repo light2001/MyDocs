@@ -1,6 +1,6 @@
 # 文档/工具项目
 该文档类项目，是自己日常工作所需的，以及自己闲暇折腾的所有技术总结，包括以下技术栈：
-- .net core
+- .net/.net core
 - java
 - spring boot
 - centos

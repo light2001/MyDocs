@@ -50,6 +50,4 @@
 
    目前发现如果一个账号，对同一个网站存在两个账号，在pull或者push的时候，会触发弹出 GCM 选择账号的情况，暂时还没找到解决方案
 
-   <span style="color:red;">已经知道怎么解决了，只要设置了全局的默认账号，就不会再提示让你选择账号去pull/push代码了</span>
-
-<code style="color:green;"> test </code>
+<code style="color:red;">已经知道怎么解决了，只要设置了全局的默认账号，就不会再提示让你选择账号去pull/push代码了</code>

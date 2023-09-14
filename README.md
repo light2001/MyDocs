@@ -6,6 +6,7 @@
 - centos
 - android
    - termux
+        - 安装后的配置(必做)
         - 如何安装常用软件
         - [安装Mysql](/运维文档/termux-mysql.md)
         - 安装Redis

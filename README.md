@@ -13,6 +13,8 @@
         - 安装Java环境
         - 安装Nodejs
         - 在手机端运行ruoyi-vue这个开源项目
+- IOS
+  - ISH
 - ubuntu
 - vue,vue-element-admin
 - angular

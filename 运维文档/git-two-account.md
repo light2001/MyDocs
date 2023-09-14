@@ -28,11 +28,18 @@
 
   参考：https://www.baeldung.com/ops/git-configure-credentials
 
-  - 查看.git-credential
+- 查看.git-credential
 
     ![image](https://github.com/light2001/MyDocs/assets/3821091/aafa77e7-1eee-47c2-bdd4-0b590eb73629)
     
     可以看到有好不同的记录
+
+- 推送时输入账号密码
+  ~~~
+ git push 
+  ~~~
+
+这时候会弹出git 密钥管理，可以选择打开webbrowser，之后就可以正常使用了 
 
 
 - 存在的问题：

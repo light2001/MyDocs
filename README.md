@@ -20,7 +20,7 @@
 - angular
 - ng-alain,ng-zarro-antd
 - git
-   - [如果有两个git账号怎么配置](/运维文档/git-two-account.md)
+   - [同一台机器多个Git账号](/运维文档/git-two-account.md)
 - docker
 - docker容器编排
 - gitlab,自动化部署

@@ -117,7 +117,7 @@
       - [Drone安装调试简单教程](https://cloud.tencent.com/developer/article/1379546)
       - [Drone+gogs简化教程](https://www.jianshu.com/p/fe2521afddcf)
    - Rancher
-- mysql
+- Mysql
    - [Mysql导入导出](/运维文档/Mysql导入导出.md)
 - Tidb
    - [官网文档](https://docs.pingcap.com/zh/tidb/stable/quick-start-with-tidb)

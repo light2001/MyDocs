@@ -15,7 +15,7 @@
 根据我工作的变化，以后还会增加
 
 可以看出我的工作多而且杂，穿插了运维，研发（前端，后端），没办法，劳碌命
-
+~~~
 该文档类项目，是自己日常工作所需的，以及自己闲暇折腾的所有技术总结，包括以下技术栈：
 
 - .net/.net core
@@ -23,14 +23,6 @@
 - spring boot
 - centos
 - android
-   - termux
-        - 安装后的配置(必做)
-        - 如何安装常用软件
-        - [安装Mysql](/运维文档/termux-mysql.md)
-        - 安装Redis
-        - 安装Java环境
-        - 安装Nodejs
-        - 在手机端运行ruoyi-vue这个开源项目
 - IOS
   - ISH
 - ubuntu
@@ -44,7 +36,7 @@
 - gitlab,自动化部署
 - nginx
 
-~~~
+
 
 ### 实战演练
 - [在centos7.5环境下配置实现.net core项目的自动化部署](/实战演练/自动化部署/main.md)
@@ -234,6 +226,17 @@
       - [解决install.js卡死的问题](https://www.jianshu.com/p/eac8f37d6992)
 - 代码审查
    - [如何在团队中使用代码审查机制](https://www.cnblogs.com/kentalk/p/gitlab-code-review-tutorial.html)
+ - 手机玩法
+    - IOS
+    - Android
+      - termux
+        - 安装后的配置(必做)
+        - 如何安装常用软件
+        - [安装Mysql](/运维文档/termux-mysql.md)
+        - 安装Redis
+        - 安装Java环境
+        - 安装Nodejs
+        - 在手机端运行ruoyi-vue这个开源项目
 
 ### BI分析
 - [轻量级BI工具Superset的搭建与使用](https://www.jianshu.com/p/b02fcea7eb5b)

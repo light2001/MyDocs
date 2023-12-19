@@ -41,7 +41,7 @@
 - 项目类
 
 
-#### 运维文档
+#### 运维相关
 - Centos
    - [安装Docker ce](/运维文档/Centos安装Docker.md)
    - [防火墙配置教程](/运维文档/Centos环境下防火墙配置.md)
@@ -132,7 +132,7 @@
 - 堡垒机
    - [正在使用的堡垒机](https://www.jumpserver.org/#)
 
-### 开发文档
+### 开发相关
 - 后端语言
    - [Python](/Backend/Python/main.md)
       - Python 入门必知必会
@@ -205,7 +205,7 @@
       - [API网关Kong和KongA](https://segmentfault.com/a/1190000020375323?utm_source=tag-newest)
       - [开源API网关系统（Kong教程）入门到精通](https://www.jianshu.com/p/a68e45bcadb6)
    
-- 前端语言
+- 前端相关
    - Vue
       - Vue管理框架收集
          - [Vue-Element-Admin](https://panjiachen.gitee.io/vue-element-admin-site/zh/)

@@ -134,7 +134,7 @@
 
 ### 开发文档
 - 后端语言
-   - [Python](/Backend/python/main.md)
+   - [Python](/Backend/Python/main.md)
       - Python 入门必知必会
       - Python 基础语法
       - Python 性能相关

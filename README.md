@@ -225,13 +225,13 @@
 #### 其他
 ---
 
-### BI分析
+##### BI分析
 - [轻量级BI工具Superset的搭建与使用](https://www.jianshu.com/p/b02fcea7eb5b)
 - PowerBI
    - [powerbi官网](https://app.powerbi.cn/)
    - [Dax函数大全](https://www.powerbigeek.com/dax-functions-previousday/?f=1)
 ---
-#### 免费软件推荐
+##### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
 - [免费的数据库查询工具HeidiSql](https://www.heidisql.com/download.php)
 - [连接Redis的开源客户端软件](https://github.com/qishibo/AnotherRedisDesktopManager/)
@@ -239,7 +239,7 @@
 
 
 ---
-### 专项课题(图文教学)
+##### 专项课题(图文教学)
 - Win10环境在Hyper-v下安装Centos并运行Docker
    - [win10环境安装Hyper-v虚拟机](/运维文档/在win10操作系统下安装Hyper-v.md)
    - [基于Hyper-v安装Centos7.5](/运维文档/通过Hyper-v安装Centos7.5.md)
@@ -254,8 +254,8 @@
       - [Docker入门到实践，这个强推](https://www.gitbook.com/book/yeasy/docker_practice/details)
 
 ---
-### 其他内容（未分类）
-#### 优秀在线工具分享
+##### 其他内容（未分类）
+###### 优秀在线工具分享
 - [蓝湖APP——在线产品，设计图，分享标注](https://lanhuapp.com/?home)
 - [在线流程图，脑图，设计稿，文件数有上限](https://www.processon.com/)
 - draw.io

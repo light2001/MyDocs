@@ -70,7 +70,7 @@
    - [安装搜狗输入法](https://blog.csdn.net/lupengCSDN/article/details/80279177)
    - [安装.NetCore](https://www.cnblogs.com/xyfy/p/9881855.html)
    - [安装Deepin,Wine软件](https://www.lulinux.com/archives/1319)
-- ManjaroLinux
+- Manjaro & Arch
    - [新系统折腾](https://blog.csdn.net/github_39457740/article/details/84551304)
    - [精品教程，安装后要做的事](https://www.cnblogs.com/elinuxboy/p/10123877.html)
    - [搜狗输入法](https://www.jianshu.com/p/1cde4b7ec3c2)

@@ -4,6 +4,7 @@
 ~~~
 根据工作需要，本文档主要包括以下几类文档：
 ~~~
+- 实战演练
 - 运维类
 - 研发类
 - 技术类
@@ -16,27 +17,7 @@
 
 可以看出我的工作多而且杂，穿插了运维，研发（前端，后端），没办法，劳碌命
 ~~~
-该文档类项目，是自己日常工作所需的，以及自己闲暇折腾的所有技术总结，包括以下技术栈：
-
-- .net/.net core
-- java
-- spring boot
-- centos
-- android
-- IOS
-  - ISH
-- ubuntu
-- vue/vue-element-admin
-- angular
-- ng-alain,ng-zarro-antd
-- git
-   - [同一台机器多个Git账号](/运维文档/git-two-account.md)
-- docker
-- docker容器编排
-- gitlab,自动化部署
-- nginx
-
-
+---
 
 ### 实战演练
 - [在centos7.5环境下配置实现.net core项目的自动化部署](/实战演练/自动化部署/main.md)
@@ -135,6 +116,8 @@
    - [正在使用的堡垒机](https://www.jumpserver.org/#)
 
 ### 开发相关
+- Git
+   - [同一台机器多个Git账号](/运维文档/git-two-account.md)
 - 后端语言
    - [Python](/Backend/Python/main.md)
       - [Python 快速入门](/Backend/Python/start.md)

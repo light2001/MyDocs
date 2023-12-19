@@ -114,7 +114,7 @@
    - [Elasticsearch增删改查演练](/运维文档/Elasticsearch测试.md)
 - 堡垒机
    - [正在使用的堡垒机](https://www.jumpserver.org/#)
-
+---
 ### 开发相关
 - Git
    - [同一台机器多个Git账号](/运维文档/git-two-account.md)
@@ -189,7 +189,7 @@
    - Lua
       - [API网关Kong和KongA](https://segmentfault.com/a/1190000020375323?utm_source=tag-newest)
       - [开源API网关系统（Kong教程）入门到精通](https://www.jianshu.com/p/a68e45bcadb6)
-   
+ 
 - 前端相关
    - Vue
       - Vue管理框架收集
@@ -220,13 +220,13 @@
         - 安装Java环境
         - 安装Nodejs
         - 在手机端运行ruoyi-vue这个开源项目
-
+---
 ### BI分析
 - [轻量级BI工具Superset的搭建与使用](https://www.jianshu.com/p/b02fcea7eb5b)
 - PowerBI
    - [powerbi官网](https://app.powerbi.cn/)
    - [Dax函数大全](https://www.powerbigeek.com/dax-functions-previousday/?f=1)
-
+---
 ### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
 - [免费的数据库查询工具HeidiSql](https://www.heidisql.com/download.php)
@@ -234,14 +234,14 @@
 - [MongoDb可视化工具Robo3T](https://robomongo.org/download)
 
 
-
+---
 ### 专项课题(图文教学)
 - Win10环境在Hyper-v下安装Centos并运行Docker
    - [win10环境安装Hyper-v虚拟机](/运维文档/在win10操作系统下安装Hyper-v.md)
    - [基于Hyper-v安装Centos7.5](/运维文档/通过Hyper-v安装Centos7.5.md)
    - [Centos7.5常用软件以及Docker的安装](/运维文档/在纯净的Centos7.5下安装常用软件和Docker.md)
    - [Docker常用操作以及容器安装运行](/运维文档/基于Docker安装和运行常用容器.md)
-
+---
 ### 技术教程
    - 在线教程
       - [Docker在线教程](https://yeasy.gitbooks.io/docker_practice/content/)

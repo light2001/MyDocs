@@ -135,7 +135,7 @@
 ### 开发相关
 - 后端语言
    - [Python](/Backend/Python/main.md)
-      - Python 入门必知必会
+      - [Python 快速入门](/Backend/Python/start.md)
       - Python 基础语法
       - Python 性能相关
       - Python 桌面程序

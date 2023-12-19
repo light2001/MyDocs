@@ -134,11 +134,16 @@
 
 ### 开发文档
 - 后端语言
-   - Python
+   - [Python](/Backend/python/main.md)
       - Python 入门必知必会
       - Python 基础语法
       - Python 性能相关
       - Python 桌面程序
+      - 相关文章收集
+        - [Python包管理pip如何用上国内镜像](https://www.cnblogs.com/wqpkita/p/7248525.html)
+        - [Python pip 国内镜像大全及使用办法](https://blog.csdn.net/madrabbit1987/article/details/81677114)
+        - [Python新利器之pipenv](https://www.jianshu.com/p/00af447f0005)
+        - [python实现opencv学习一：安装、环境配置、工具](https://blog.csdn.net/u011321546/article/details/79499598)
    - .NetCore
       - [使用VSCode开发.NetCore](https://www.cnblogs.com/yilezhu/p/9926078.html)
       - [千星项目OpenAuth.Net基于.Net Core 2.1的快速开发框架,核心模块包括：组织机构、角色用户、权限授权、表单设计、工作流等。它的架构精良易于扩展，是中小企业的首选](https://github.com/yubaolee/OpenAuth.Core?tdsourcetag=s_pctim_aiomsg)
@@ -196,11 +201,6 @@
    - Nodejs
       - [koa2环境搭建](https://blog.csdn.net/weixin_42795831/article/details/82765912)
       - [Koa2开源项目]
-   - Python
-      - [Python包管理pip如何用上国内镜像](https://www.cnblogs.com/wqpkita/p/7248525.html)
-      - [Python pip 国内镜像大全及使用办法](https://blog.csdn.net/madrabbit1987/article/details/81677114)
-      - [Python新利器之pipenv](https://www.jianshu.com/p/00af447f0005)
-      - [python实现opencv学习一：安装、环境配置、工具](https://blog.csdn.net/u011321546/article/details/79499598)
    - Lua
       - [API网关Kong和KongA](https://segmentfault.com/a/1190000020375323?utm_source=tag-newest)
       - [开源API网关系统（Kong教程）入门到精通](https://www.jianshu.com/p/a68e45bcadb6)

@@ -114,7 +114,7 @@
 - 堡垒机
    - [正在使用的堡垒机](https://www.jumpserver.org/#)
 ---
-### 开发相关
+#### 开发相关
 - Git
    - [同一台机器多个Git账号](/运维文档/git-two-account.md)
 - 后端语言
@@ -226,7 +226,7 @@
    - [powerbi官网](https://app.powerbi.cn/)
    - [Dax函数大全](https://www.powerbigeek.com/dax-functions-previousday/?f=1)
 ---
-### 免费软件推荐
+#### 免费软件推荐
 - [Mysql查询分析器MysqlWorkBench](https://dev.mysql.com/downloads/workbench/)
 - [免费的数据库查询工具HeidiSql](https://www.heidisql.com/download.php)
 - [连接Redis的开源客户端软件](https://github.com/qishibo/AnotherRedisDesktopManager/)
@@ -249,7 +249,7 @@
       - [Docker入门到实践，这个强推](https://www.gitbook.com/book/yeasy/docker_practice/details)
 
 ---
-## 其他内容（未分类）
+### 其他内容（未分类）
 #### 优秀在线工具分享
 - [蓝湖APP——在线产品，设计图，分享标注](https://lanhuapp.com/?home)
 - [在线流程图，脑图，设计稿，文件数有上限](https://www.processon.com/)

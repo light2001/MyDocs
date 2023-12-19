@@ -1,5 +1,5 @@
 ### Python相关研究
-- Python 入门必知必会
+- [Python 快速入门](/start.md)
 - Python 基础语法
 - Python Web开发
 - Pyton 桌面开发

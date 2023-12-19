@@ -42,7 +42,7 @@
 
 
 #### 运维文档
-- Centos7
+- Centos
    - [安装Docker ce](/运维文档/Centos安装Docker.md)
    - [防火墙配置教程](/运维文档/Centos环境下防火墙配置.md)
    - [如何安装Docker下的禅道](https://blog.csdn.net/qq_28039297/article/details/78650552)
@@ -60,7 +60,7 @@
    - [Npm部署前端项目，权限问题解决](https://www.cnblogs.com/dunke/p/10224770.html)
    - [物理机扩充硬盘](/运维文档/Centos物理机如何扩展硬盘.md)
 
-- Ubuntu18
+- Ubuntu
    - [怎么安装最新的NodeJs(采用安装方式)](https://blog.csdn.net/chenyao1994/article/details/82495163)
    - [怎么安装Chrome](https://www.cnblogs.com/cainiaoaixuexi/p/9033350.html)
    - [分辨率高以后，解决缩放问题](http://tieba.baidu.com/p/5670339451)
@@ -134,6 +134,11 @@
 
 ### 开发文档
 - 后端语言
+   - Python
+      - Python 入门必知必会
+      - Python 基础语法
+      - Python 性能相关
+      - Python 桌面程序
    - .NetCore
       - [使用VSCode开发.NetCore](https://www.cnblogs.com/yilezhu/p/9926078.html)
       - [千星项目OpenAuth.Net基于.Net Core 2.1的快速开发框架,核心模块包括：组织机构、角色用户、权限授权、表单设计、工作流等。它的架构精良易于扩展，是中小企业的首选](https://github.com/yubaolee/OpenAuth.Core?tdsourcetag=s_pctim_aiomsg)

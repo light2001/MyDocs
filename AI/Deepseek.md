@@ -21,7 +21,9 @@ The python environment is used to run the open-webui of the client, which can be
 pip is the package manager needed to install python
 
 
-
+<br>
+<br>
+<br>
 ##### Ollama
 
 Ollama is a large model management platform that provides everything you need to download and run large models.
@@ -64,7 +66,9 @@ This section explains how to install the required software
 This step depends on pip, so the python link above is a must
 
 
-
+<br>
+<br>
+<br>
 ### Run large model
 
 #### Server

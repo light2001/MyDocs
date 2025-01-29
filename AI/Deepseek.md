@@ -122,15 +122,19 @@ pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/si
 
 #### Ollama
 Open ollama making address: [https://github.com/ollama/ollama](https://github.com/ollama/ollama)
+
 Find the Release section on the right and click to select the latest release
+
 ![image](https://github.com/user-attachments/assets/03f297a3-77e2-4a63-ac1d-dfd056117023)
 
 Select the version below on the page that opens
+
 ![image](https://github.com/user-attachments/assets/663029a0-2f4e-4161-97f4-fce5cfd857b8)
 
 ##### Environment variable
 
 Environment variables have been described above, here will not repeat, as shown in the screenshot below to set the environment variable is good
+
 ![image](https://github.com/user-attachments/assets/2bb7a82c-5164-4332-96a7-2ea773e3f75b)
 
 

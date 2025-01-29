@@ -94,9 +94,11 @@ Below is the environment variables for Python and PIP
 ![image](https://github.com/user-attachments/assets/63512781-3cc1-4f1b-8a92-c302caaf1044)
 
 Input below command 
+
 ~~~
 pip --version
 ~~~
+
 If you see below screenshot, the pip install is completed.
 ![image](https://github.com/user-attachments/assets/6e713f85-c06c-45c4-bf02-b51ff6680307)
 

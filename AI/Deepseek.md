@@ -62,9 +62,26 @@ Click Download to install
 
 ![image](https://github.com/user-attachments/assets/5bfb6ac7-38cb-4240-8061-ef7cd9d6c2d2)
 
-The installation method is a point-and-click next and the next step is fine
+The installation method is a point-and-click next and the next step is fine.
+
 
 ##### Install pip
+
+For windows users, you just need to set the environment variable and pip is installed
+![image](https://github.com/user-attachments/assets/8f3518d2-9c28-4f32-8923-5c67d04e81b5)
+![image](https://github.com/user-attachments/assets/e6760b9e-596d-454e-a065-01bf2fb58ec1)
+
+![image](https://github.com/user-attachments/assets/843fe858-100a-4a87-a077-f974dcbabe27)
+
+![image](https://github.com/user-attachments/assets/5b2bff7a-170f-41d8-9567-2e96705aedaf)
+
+
+![image](https://github.com/user-attachments/assets/63512781-3cc1-4f1b-8a92-c302caaf1044)
+
+
+
+
+
 
 
 ##### Mirror image

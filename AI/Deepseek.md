@@ -43,6 +43,10 @@ It only takes very simple steps to run large models on the computer
 
 The goal of this article is to run deepseek's r1 1.5b model on a laptop, but it also applies to other models included on the ollama platform
 
+<br>
+<br>
+<br>
+
 ### Installation
 
 This section explains how to install the required software

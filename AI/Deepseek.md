@@ -83,7 +83,9 @@ For windows users, you just need to set the environment variable and pip is inst
 <br>
 <br>
 Follow the steps in the screenshot below to set the environment variables
+
 ![image](https://github.com/user-attachments/assets/8f3518d2-9c28-4f32-8923-5c67d04e81b5)
+
 ![image](https://github.com/user-attachments/assets/e6760b9e-596d-454e-a065-01bf2fb58ec1)
 
 ![image](https://github.com/user-attachments/assets/843fe858-100a-4a87-a077-f974dcbabe27)

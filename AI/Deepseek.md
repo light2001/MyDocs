@@ -50,13 +50,22 @@ The goal of this article is to run deepseek's r1 1.5b model on a laptop, but it 
 ### Installation
 
 This section explains how to install the required software
+Since I only have windows at hand, here is how to install windows
 
 #### Python & pip
 
 ##### Install python
+Go to the official python [website](https://www.python.org/) to download the installation package, and select this version here:
 
+Click Download to install
+![image](https://github.com/user-attachments/assets/164a0620-be6e-42ca-bbac-82a641c7a5a2)
+
+![image](https://github.com/user-attachments/assets/5bfb6ac7-38cb-4240-8061-ef7cd9d6c2d2)
+
+The installation method is a point-and-click next and the next step is fine
 
 ##### Install pip
+
 
 ##### Mirror image
 

@@ -217,6 +217,11 @@ Here is the running command.
 ![image](https://github.com/user-attachments/assets/1b3a652f-c08a-414b-969d-6837f86ed189)
 
 
+Download deepseek r1 7b model
+![image](https://github.com/user-attachments/assets/fd47c25c-4daa-45fb-ba84-ad031ceb6582)
+
+
+
 
 
 ### Reference

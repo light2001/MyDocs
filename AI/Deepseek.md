@@ -28,6 +28,7 @@ pip is the package manager needed to install python
 <br>
 <br>
 <br>
+
 ##### Ollama
 
 Ollama is a large model management platform that provides everything you need to download and run large models.

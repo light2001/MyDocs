@@ -20,12 +20,7 @@ Below is a list of the required sofware
 The python environment is used to run the open-webui of the client, which can be used instead of the ollama terminal
 pip is the package manager needed to install python
 
-Input below command
-~~~
-python
-~~~
-If you see below screenshot, the python install is completed.
-![image](https://github.com/user-attachments/assets/08ba7115-64f9-412b-a8c3-f5bfbd3ba203)
+
 
 
 <br>
@@ -71,6 +66,13 @@ Click Download to install
 
 The installation method is a point-and-click next and the next step is fine.
 
+Input below command
+~~~
+python
+~~~
+If you see below screenshot, the python install is completed.
+![image](https://github.com/user-attachments/assets/08ba7115-64f9-412b-a8c3-f5bfbd3ba203)
+
 
 ##### Install pip
 
@@ -85,13 +87,27 @@ For windows users, you just need to set the environment variable and pip is inst
 Below is the environment variables for Python and PIP 
 ![image](https://github.com/user-attachments/assets/63512781-3cc1-4f1b-8a92-c302caaf1044)
 
-
+Input below command 
+~~~
+pip --version
+~~~
+If you see below screenshot, the pip install is completed.
+![image](https://github.com/user-attachments/assets/6e713f85-c06c-45c4-bf02-b51ff6680307)
 
 
 
 
 
 ##### Mirror image
+What is a mirror image?<br>
+For some reason, foreign websites cannot be accessed in the country, so you need to set up a domestic mirror site, otherwise pip will not work properly
+
+<br>
+The following uses [Tsinghua](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/) Source as an example to set an image
+Input the follwing command
+~~~
+pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+~~~
 
 
 #### Ollama

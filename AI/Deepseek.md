@@ -20,6 +20,13 @@ Below is a list of the required sofware
 The python environment is used to run the open-webui of the client, which can be used instead of the ollama terminal
 pip is the package manager needed to install python
 
+Input below command
+~~~
+python
+~~~
+If you see below screenshot, the python install is completed.
+![image](https://github.com/user-attachments/assets/08ba7115-64f9-412b-a8c3-f5bfbd3ba203)
+
 
 <br>
 <br>
@@ -75,7 +82,7 @@ For windows users, you just need to set the environment variable and pip is inst
 
 ![image](https://github.com/user-attachments/assets/5b2bff7a-170f-41d8-9567-2e96705aedaf)
 
-
+Below is the environment variables for Python and PIP 
 ![image](https://github.com/user-attachments/assets/63512781-3cc1-4f1b-8a92-c302caaf1044)
 
 

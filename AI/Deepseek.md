@@ -202,7 +202,9 @@ Open [Ollama's official site](https://ollama.com/), you can see all the big mode
 ![image](https://github.com/user-attachments/assets/f5d664da-5f1e-4811-ba06-03b5061e68ad)
 
 Here is the running command.
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/1b3a652f-c08a-414b-969d-6837f86ed189)
+
 
 
 

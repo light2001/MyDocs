@@ -2,8 +2,9 @@
 The purpose of writing this article is to run a large model on a laptop computer, similar to the effect of achieving online AI, such as Doubao, Baidu Wenxin Word and other     AI tools
 
 The installation part of this article is only suitable for beginners with less foundation, and the master can ignore this link
-
-
+<br>
+<br>
+<br>
 #### Required software
 
 Below is a list of the required sofware

@@ -113,7 +113,9 @@ What is a mirror image?<br>
 For some reason, foreign websites cannot be accessed in the country, so you need to set up a domestic mirror site, otherwise pip will not work properly
 
 <br>
-The following uses [Tsinghua](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/) Source as an example to set an image
+
+The following uses [Tsinghua](https://mirrors.tuna.tsinghua.edu.cn/help/pypi) Source as an example to set an image
+
 Input the follwing command
 ~~~
 pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
@@ -159,6 +161,7 @@ Input below command.
 ollama serve
 ~~~
 You will see below command line.
+
 ![image](https://github.com/user-attachments/assets/4ad72c40-a858-4456-8a2c-5f8bd107e786)
 
 
@@ -168,6 +171,7 @@ Input below command.
   ollama run deepseek-r1:1.5b
 ~~~
 The first run of this command will perform the download and install steps, if it is already installed, the second run will not have it and will run the model directly
+
 ![image](https://github.com/user-attachments/assets/6e89bac0-8499-42a2-a21e-6697eef47a01)
 
 
@@ -178,18 +182,23 @@ open-webui serve
 ~~~
 
 The first run will download the front and back end and run, the second run will not download the step, will run directly
+
 ![image](https://github.com/user-attachments/assets/7e52566b-fa7a-4c45-b1f6-c42f3fb16cf8)
 
 The first login will require an administrator account and password, as shown in the screenshot below
+
 ![image](https://github.com/user-attachments/assets/1e08607a-17b1-491c-85b9-00ecef900519)
 
 Here you can select all models locally
+
 ![image](https://github.com/user-attachments/assets/e36e1b9d-c9de-4a7b-9d48-10b0cd96c9a9)
 
 Then you can have fun with the big models
 
 ### Other Big Model
+
 Open [Ollama's official site](https://ollama.com/), you can see all the big models they have included, and you can choose which ones you want
+
 ![image](https://github.com/user-attachments/assets/f5d664da-5f1e-4811-ba06-03b5061e68ad)
 
 Here is the running command.
@@ -198,4 +207,5 @@ Here is the running command.
 
 
 ### Reference
+
 - [How to install ollama](https://ollama.readthedocs.io/quickstart/)

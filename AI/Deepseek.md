@@ -198,6 +198,10 @@ Then you can have fun with the big models
 
 ### Other Big Model
 
+Does the current article only apply to the big Deepseek model? Of course not, this article applies to all of the large models included in the Ollama platform, and almost all of the well-known open source large models have been included.
+
+So how do you use other big models?
+
 Open [Ollama's official site](https://ollama.com/), you can see all the big models they have included, and you can choose which ones you want
 
 ![image](https://github.com/user-attachments/assets/f5d664da-5f1e-4811-ba06-03b5061e68ad)

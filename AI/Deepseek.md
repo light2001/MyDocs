@@ -1,5 +1,8 @@
 ### Introduce
-The purpose of writing this article is to run a large model on a laptop computer, similar to the effect of achieving online AI, such as Doubao, Baidu Wenxin Word and other AI tools
+    The purpose of writing this article is to run a large model on a laptop computer, similar to the effect of achieving online AI, such as Doubao, Baidu Wenxin Word and other     AI tools
+
+    The installation part of this article is only suitable for beginners with less foundation, and the master can ignore this link
+
 
 #### Required software
 
@@ -22,13 +25,49 @@ Below is a list of the required sofware
 
 ##### Open-webui
 
+    Usually, after you install ollama, you run the model and can only type text in the terminal, which is not too convenient to use, so you need an interface similar to other web version of AI tools, here it is recommended to use the open-webui program written in python
+    
+
+
+
 #### Destination
+
+    The goal of this article is to run deepseek's r1 1.5b model on a laptop, but it also applies to other models included on the ollama platform
 
 ### Installation
 
+This section explains how to install the required software
 
-### Run
+#### Python & pip
+
+##### Install python
+
+
+##### Install pip
+
+##### Mirror image
+
+
+#### Ollama
+
+
+
+#### Open-webui
+
+This step depends on pip, so the python link above is a must
+
+
+
+### Run large model
+
+#### Server
+
+#### Client
+
+
+#### Web Client
 
 
 
 ### Reference
+- [How to install ollama](https://ollama.readthedocs.io/quickstart/)

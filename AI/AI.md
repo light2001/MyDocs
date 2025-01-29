@@ -1,5 +1,5 @@
 ### AI introduce
 
 ### Article list
-- [Run DeepSeek in laptop(/Deepseek.md)]
+- [Run DeepSeek in laptop](/Deepseek.md)
 

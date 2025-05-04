@@ -55,6 +55,12 @@ volumes:
 
 ```
 
+### Project设置
+Project Token : 
+```
+sqp_54ece4e750e93af9b97cb293eaed254bdb81554b
+```
+
 
 ## Sonar Lint
 

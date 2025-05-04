@@ -3,7 +3,7 @@
 ## SonqrQube Server
 
 ## 下面是docker compose ,通过这个脚本就能一键启动SonarQube的Docker容器
-~~~
+```YAML
 version: "3"
 
 services:
@@ -51,7 +51,7 @@ volumes:
   sonarqube_extensions:
   sonarqube_logs:
 
-~~~
+```
 
 
 ## Sonar Lint

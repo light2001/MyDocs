@@ -16,7 +16,7 @@ services:
     environment:
       # !!! IMPORTANT: Change these default values for security !!!
       POSTGRES_USER: sonarqube
-      POSTGRES_PASSWORD: your_strong_password # <-- CHANGE THIS PASSWORD
+      POSTGRES_PASSWORD: Abc123456 # <-- CHANGE THIS PASSWORD
       POSTGRES_DB: sonarqube
     volumes:
       - db_data:/var/lib/postgresql/data # Persist database data
@@ -34,7 +34,7 @@ services:
       SONARQUBE_JDBC_URL: jdbc:postgresql://db:5432/sonarqube
       # !!! IMPORTANT: Use the same user and password as the database service !!!
       SONARQUBE_JDBC_USERNAME: sonarqube
-      SONARQUBE_JDBC_PASSWORD: your_strong_password # <-- USE THE SAME PASSWORD
+      SONARQUBE_JDBC_PASSWORD: Abc123456 # <-- USE THE SAME PASSWORD
       # Configure Elasticsearch memory for SonarQube (adjust based on your resources)
       # Minimum 2GB RAM is generally recommended for SonarQube
       SONAR_SEARCH_JAVA_OPTS: "-Xmx1024m -Xms1024m -XX:+HeapDumpOnOutOfMemoryError" # Example: 1GB heap

@@ -1,6 +1,8 @@
 ## SonarQube
 
 ## SonqrQube Server
+SonarQube分为服务器端和客户端
+
 
 ## 下面是docker compose ,通过这个脚本就能一键启动SonarQube的Docker容器
 ```YAML

@@ -61,6 +61,20 @@ Project Token :
 sqp_54ece4e750e93af9b97cb293eaed254bdb81554b
 ```
 
+Project Name: TestProject
+
+#### 怎么安装Sonar Scanner:
+
+```
+dotnet tool install --global dotnet-sonarscanner
+```
+#### 怎么扫描项目
+```
+dotnet sonarscanner begin /k:"TestProject" /d:sonar.host.url="http://192.168.170.128:9000"  /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81554b"
+dotnet build
+dotnet sonarscanner end /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81554b"
+```
+
 
 ## Sonar Lint
 

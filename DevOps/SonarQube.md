@@ -13,7 +13,11 @@
 Docker-Compsoe是用来编排Docker容器的, 所以必须安装以下, 下面给出安装方法
 
 ~~~
-
+sudo pacman -S docker-compose
+~~~
+查看是否安装成功:
+~~~
+docker-compose --version
 ~~~
 
 
@@ -27,6 +31,11 @@ Java环境主要是用于Sonar Scanner这个扫描工具的, 由于Arch Linux自
 ~~~
 sudo pacman -S dotnet-sdk
 ~~~
+查看是否安装成功:
+~~~
+dotnet --version
+~~~
+
 
 ## SonqrQube Server
 

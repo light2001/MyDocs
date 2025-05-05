@@ -127,7 +127,7 @@ dotnet tool install --global dotnet-sonarscanner
 ```
 设置dotnet tool的环境变量, 否则无法执行
 
-~~~
+```shell
 nano ~/.bashrc
 # 或者使用 vim
 # vim ~/.bashrc
@@ -137,7 +137,8 @@ export PATH="$PATH:$HOME/.dotnet/tools"
 
 # load env
 source ~/.bashrc
-~~~
+```
+
 如果你使用的是ZSH 的话, 需要修改~/.zshrc ,这里不再赘述了
 
 ### 扫描项目

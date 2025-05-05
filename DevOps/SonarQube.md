@@ -83,6 +83,7 @@ dotnet sonarscanner end /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81
 
 
 ## Sonar Scanner
+Sonar Scanner是用来扫描代码质量, 扫描Unit Test ,扫描结束以后, 会把报告上传到指定的SonarQube服务器上
 下面是Sonar Scanner扫描的具体执行代码
 ```
 dotnet sonarscanner begin /k:"TestProject" /d:sonar.host.url="http://192.168.170.128:9000"  /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81554b"
@@ -90,3 +91,6 @@ dotnet build
 dotnet sonarscanner end /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81554b"
 ```
 
+
+
+## 集成Git仓库

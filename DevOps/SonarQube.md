@@ -98,7 +98,7 @@ volumes:
 
 ### Project设置
 Project Token : 
-```
+```shell
 sqp_54ece4e750e93af9b97cb293eaed254bdb81554b
 ```
 
@@ -122,7 +122,7 @@ Sonar Scanner是用来扫描代码质量, 扫描Unit Test ,扫描结束以后, �
 ### 安装Sonar Scanner
 #### 怎么安装Sonar Scanner:
 
-```
+```shell
 dotnet tool install --global dotnet-sonarscanner
 ```
 设置dotnet tool的环境变量, 否则无法执行

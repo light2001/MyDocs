@@ -8,6 +8,8 @@
 我的Linux环境是Arch Linux, 本文所检查的语言是以C#为主, 所以以下的一些说明, 都是以Arch Linux和.Net 环境为主
 
 #### Docker
+Docker是什么本文不再赘述了, 当前文档的Sonar Server使用的环境就是在Docker里, 因为方便管理, 部署快速.
+基于下面的Docker-Compose文档, 不到半小时就能启动一个完整的SonarQube Server环境了
 
 #### Docker-Compose
 Docker-Compsoe是用来编排Docker容器的, 所以必须安装以下, 下面给出安装方法

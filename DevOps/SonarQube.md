@@ -102,7 +102,7 @@ volumes:
 
 
 ### 如何运行?
-在终端敲下面的命令即可:
+在终端敲下面的命令即可, 这个命令会自动查找当前目录的"docker-compose.yml"文件,并下载镜像和运行容器
 
 ```shell
 docker-compose up -d
@@ -115,15 +115,15 @@ docker-compose up -d
 ![image](https://github.com/user-attachments/assets/017e8079-af10-4240-9ded-6a82561ff6dc)
 
 
+### 默认的账号密码:
+运行成功后,你会发现打开了登陆界面, 但是你不知道账号和密码, 如下图所示:
+![image](https://github.com/user-attachments/assets/ed223e71-e7f2-4e2f-9bb9-d42ffaa36c09)
+SonarQube的默认账号密码如下:
 
-### Project设置
-Project Token : 
-```shell
-sqp_54ece4e750e93af9b97cb293eaed254bdb81554b
 ```
-
-Project Name: TestProject
-
+账号: admin
+密码: admin
+```
 
 
 
@@ -134,6 +134,8 @@ Sonar lint的作用是在IDE开发环境里扫描代码存在的问题,它是以
 
 这个插件现在现在已经改名为：SonarQube For IDE, 如下图所示
 ![image](https://github.com/user-attachments/assets/c159e1da-2260-4edb-b7bc-241491a40eb3)
+
+
 
 
 ## Sonar Scanner
@@ -161,7 +163,19 @@ source ~/.bashrc
 
 如果你使用的是ZSH 的话, 需要修改~/.zshrc ,这里不再赘述了
 
+### Project设置
+需要在SonarQube里创建一个项目, SonarQube是以目录为单位工作的
+
+Project Token : 
+```shell
+sqp_54ece4e750e93af9b97cb293eaed254bdb81554b
+```
+
+Project Name: TestProject
+
+
 ### 扫描项目
+
 ```shell
 dotnet sonarscanner begin /k:"TestProject" /d:sonar.host.url="http://192.168.170.128:9000"  /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81554b"
 dotnet build

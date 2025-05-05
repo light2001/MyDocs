@@ -45,7 +45,7 @@ SonarQube有Cloud版本,和本地化部署的版本,可以查看官网的价格�
 对于小团队的话, 价格看起来还可以, 当然也可以直接使用开源版本
 
 
-## 下面是docker compose ,通过这个脚本就能一键启动SonarQube的Docker容器
+### 下面是docker compose ,通过这个脚本就能一键启动SonarQube的Docker容器
 ```YAML
 version: "3"
 
@@ -95,6 +95,26 @@ volumes:
   sonarqube_logs:
 
 ```
+创建一个新的目录, 把上面的文件保存为yml格式的文件, 文件名: docker-compose.yml
+
+如下面截图所示
+![image](https://github.com/user-attachments/assets/8abfd86a-9be9-44ee-869f-f8953c83bb13)
+
+
+### 如何运行?
+在终端敲下面的命令即可:
+
+```shell
+docker-compose up -d
+```
+执行后会看到自动下载了docker相关的镜像
+![image](https://github.com/user-attachments/assets/6dc06104-c8fe-4f23-970d-6b2726143ba8)
+
+
+下面是Docker容器已经运行起来的截图
+![image](https://github.com/user-attachments/assets/017e8079-af10-4240-9ded-6a82561ff6dc)
+
+
 
 ### Project设置
 Project Token : 

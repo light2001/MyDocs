@@ -14,13 +14,13 @@ Docker是什么本文不再赘述了, 当前文档的Sonar Server使用的环境
 #### Docker-Compose
 Docker-Compsoe是用来编排Docker容器的, 所以必须安装以下, 下面给出安装方法
 
-~~~
+```shell
 sudo pacman -S docker-compose
-~~~
+```
 查看是否安装成功:
-~~~
+```shell
 docker-compose --version
-~~~
+```
 
 
 #### Java环境
@@ -30,13 +30,13 @@ Java环境主要是用于Sonar Scanner这个扫描工具的, 由于Arch Linux自
 由于用的项目是.Net的项目, 所以这里的基础代码运行环境也是以.Net SDK为主
 如何安装环境? 使用下面的代码会安装最新版的9.0
 
-~~~
+```shell
 sudo pacman -S dotnet-sdk
-~~~
+```
 查看是否安装成功:
-~~~
+```shell
 dotnet --version
-~~~
+```
 
 
 ## SonqrQube Server
@@ -142,7 +142,7 @@ source ~/.bashrc
 如果你使用的是ZSH 的话, 需要修改~/.zshrc ,这里不再赘述了
 
 ### 扫描项目
-```
+```shell
 dotnet sonarscanner begin /k:"TestProject" /d:sonar.host.url="http://192.168.170.128:9000"  /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81554b"
 dotnet build
 dotnet sonarscanner end /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81554b"

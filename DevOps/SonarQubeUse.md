@@ -35,17 +35,54 @@ sqp_c88167212d842c08915f951614e96cb942e95fb2
 下面是选择了.Net后的结果, 这里会展示怎么扫描.Net项目
 ![image](https://github.com/user-attachments/assets/26272b1f-7ef0-42f6-856f-63e9dfbab8fe)
 
+设置好项目以后, 在主界面就能看到有两个项目了,可以看到新创建的项目目前没有结果, 因为还没有扫描
+![image](https://github.com/user-attachments/assets/bd637b2c-54a3-4026-8592-c65cf8627688)
 
 
 
 
 ## 扫描结果说明
 SonarQube扫描后会把结果上传到服务器, 会在服务器产生报表, 方便查看哪一行代码出现了哪种问题, 这部分列出来了所有代码存在的问题和缺陷
-
+下面会展开说明
 
 ### Dashboard
+在项目页面可以看到多个项目的简单预览
+![image](https://github.com/user-attachments/assets/597b81d8-23cb-444b-b648-3d7d14b5fb6d)
+
+下图可以看到一个项目的扫描结果
+![image](https://github.com/user-attachments/assets/41bd16ad-f9d2-4824-b009-484e360a2152)
+这里可以看到下列信息:
+- Bugs
+- Vulnerabilities
+- Security Hotspots
+- Debt
+- Code Smells
+- Unit Tests converage
+- Duplications
+
+
 
 ### Bugs
+下面是bugs的详细信息
+![image](https://github.com/user-attachments/assets/5492aa9d-3ce2-449e-9435-db7b1d2935ac)
+
+如果打开第一个错误, 就能看到具体的信息:
+![image](https://github.com/user-attachments/assets/1fa44f06-ee9a-42ed-b0c9-3c0ea310d34c)
+这里的问题是: 划线的变量, 始终不为空,所以等式不成立
+
+这里可以过滤不同的数据:
+- Bug
+- Vulnerability
+- Code Smell
+![image](https://github.com/user-attachments/assets/dde0e339-3915-4950-9f39-a41bd31e0e39)
+
+这里可以过滤语言,通过下图可以看到,其实大部分问题都是前端Web页面造成的
+![image](https://github.com/user-attachments/assets/0f6340d0-23ea-47bd-ab79-2d088843ae6f)
+
+过滤后的Bugs只有16个了
+![image](https://github.com/user-attachments/assets/80e72f0a-2e2d-42de-a8c3-8e0f99776bf5)
+
+
 
 ### Vulnerabilities
 

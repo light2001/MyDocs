@@ -5,12 +5,15 @@
     可以设定代码质量基线, 如果不达标的代码可以拒绝合并
 
 ### 运行环境
+我的Linux环境是Arch Linux, 本文所检查的语言是以C#为主, 所以以下的一些说明, 都是以Arch Linux和.Net 环境为主
 
 #### Docker
 
 #### Docker-Compose
 
 #### Java环境
+
+#### .Net SDK
 
 ## SonqrQube Server
 

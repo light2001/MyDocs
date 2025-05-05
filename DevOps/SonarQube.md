@@ -148,4 +148,6 @@ dotnet build
 dotnet sonarscanner end /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81554b"
 ```
 
+# 如何查看和分析扫描结果
 
+## [SonarQube的结果如何分析](SonarQubeUse.md)

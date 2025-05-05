@@ -1,7 +1,21 @@
 ## SonarQube
 
+    Sonar 主要实现的功能是, 检查代码质量, 对于C#来说一共有260条代码规则, 会检测出有缺陷的写法
+    结合Unit Test能看到代码的覆盖率.
+    可以设定代码质量基线, 如果不达标的代码可以拒绝合并
+
+### 运行环境
+
+#### Docker
+
+#### Docker-Compose
+
+#### Java环境
+
 ## SonqrQube Server
-SonarQube有很多天
+
+    SonarQube有Cloud版本,和本地化部署的版本,可以查看官网的价格页面, 查看他们的区别,对于个人开发者是免费使用的
+    对于小团队的话, 价格看起来还可以, 当然也可以直接使用开源版本
 
 
 ## 下面是docker compose ,通过这个脚本就能一键启动SonarQube的Docker容器

@@ -148,6 +148,37 @@ dotnet sonarscanner end /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81
 ```
 
 
+## 扫描结果说明
+SonarQube扫描后会把结果上传到服务器, 会在服务器产生报表, 方便查看哪一行代码出现了哪种问题,下面展开来说明
+
+### Dashboard
+
+### Bugs
+
+### Vulnerabilities
+
+### Security Hotspots
+
+### Debt
+
+
+### Code Smells
+
+
+### Unit Test
+
+## SonarQube 其他功能说明
+### Issues
+
+
+### Measures
+
+
+### Code
+
+
+### Activity
+
 
 
 ## 集成Git服务器

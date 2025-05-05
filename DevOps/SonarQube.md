@@ -148,6 +148,8 @@ dotnet build
 dotnet sonarscanner end /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81554b"
 ```
 
+以下的内容待补充 2024-05-05
+---
 
 ## 扫描结果说明
 SonarQube扫描后会把结果上传到服务器, 会在服务器产生报表, 方便查看哪一行代码出现了哪种问题,下面展开来说明

@@ -142,7 +142,8 @@ Sonar lint的作用是在IDE开发环境里扫描代码存在的问题,它是以
 Sonar Scanner是用来扫描代码质量, 扫描Unit Test ,扫描结束以后, 会把报告上传到指定的SonarQube服务器上
 
 ### 安装Sonar Scanner
-#### 怎么安装Sonar Scanner:
+
+想要正常扫描的话,必须安装SonarScanner, 这个软件可以通过dotnet tool这个工具安装, 下面给出了安装命令, 非常简单
 
 ```shell
 dotnet tool install --global dotnet-sonarscanner
@@ -164,7 +165,10 @@ source ~/.bashrc
 如果你使用的是ZSH 的话, 需要修改~/.zshrc ,这里不再赘述了
 
 ### Project设置
-需要在SonarQube里创建一个项目, SonarQube是以目录为单位工作的
+SonarQube是以目录为单位工作的, 需要在SonarQube里创建一个项目,所以这里必须先配置项目
+![image](https://github.com/user-attachments/assets/2c925747-0a63-4c47-978a-64ec363d48fc)
+
+设置完项目以后,会给到一个Project token, 不是必须用这个凭据来上传项目, 也可以使用User Token
 
 Project Token : 
 ```shell

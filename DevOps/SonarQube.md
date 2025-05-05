@@ -108,9 +108,12 @@ Project Name: TestProject
 
 
 ## Sonar Lint
-现在已经改名为：SonarQube For IDE, 如下图所示
-![image](https://github.com/user-attachments/assets/c159e1da-2260-4edb-b7bc-241491a40eb3)
+Sonar lint的作用是在IDE开发环境里扫描代码存在的问题,它是以IDE的插件形式存在的.
+如果您购买了SonarQube的Cloud服务或者购买了企业版本地化部署, 那么就可以开启这个功能了.
+这个功能其实和Rider, VisualStudio的代码提示有一些冲突, 可以用用看, 但是不推荐, 这里不多做介绍
 
+这个插件现在现在已经改名为：SonarQube For IDE, 如下图所示
+![image](https://github.com/user-attachments/assets/c159e1da-2260-4edb-b7bc-241491a40eb3)
 
 
 ## Sonar Scanner
@@ -147,4 +150,5 @@ dotnet sonarscanner end /d:sonar.login="sqp_54ece4e750e93af9b97cb293eaed254bdb81
 
 
 
-## 集成Git仓库
+## 集成Git服务器
+SonarQube还可以集成在Git服务器上, 在每次合并代码的时候都进行扫描, 实现自动化处理, 这个本文稍后会给出说明,敬请期待

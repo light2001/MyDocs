@@ -95,6 +95,55 @@ volumes:
   sonarqube_logs:
 
 ```
+如果想要尝试最新版本，可以用下面这个docker-compose.yml，不过我没有测试过
+
+```YAML
+version: "3.9"
+
+services:
+  sonarqube:
+    image: sonarqube:latest    # 使用官方最新版镜像（也可指定具体版本如 2025.6.1-developer）
+    container_name: sonarqube
+    depends_on:
+      - db
+    ports:
+      - "9000:9000"             # SonarQube Web UI 默认端口
+    environment:
+      # PostgreSQL 连接设置
+      SONAR_JDBC_URL: jdbc:postgresql://db:5432/sonar
+      SONAR_JDBC_USERNAME: sonar
+      SONAR_JDBC_PASSWORD: sonar
+      # 生产环境建议设置 Java 额外参数以满足 Elasticsearch 要求
+      # 可以根据需要启用 IPv6 支持
+      JAVA_TOOL_OPTIONS: "-Djava.net.preferIPv6Addresses=true"
+      SONAR_WEB_JAVAADDITIONALOPTS: "-Djava.net.preferIPv6Addresses=true"
+    volumes:
+      - sonarqube_data:/opt/sonarqube/data
+      - sonarqube_logs:/opt/sonarqube/logs
+      - sonarqube_extensions:/opt/sonarqube/extensions
+
+  db:
+    image: postgres:15        # PostgreSQL 数据库，可以根据需要调整版本
+    container_name: sonarqube_db
+    environment:
+      POSTGRES_USER: sonar
+      POSTGRES_PASSWORD: sonar
+      POSTGRES_DB: sonar
+    volumes:
+      - postgresql:/var/lib/postgresql/data
+
+volumes:
+  sonarqube_data:
+  sonarqube_logs:
+  sonarqube_extensions:
+  postgresql:
+
+
+
+```
+
+
+
 创建一个新的目录, 把上面的文件保存为yml格式的文件, 文件名: docker-compose.yml
 
 如下面截图所示
